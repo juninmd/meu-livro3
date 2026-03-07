@@ -41,7 +41,7 @@ A mentira flutuou pelo quarto como fumaça, sufocante, densa, pior que o cheiro 
 
 Helena não conseguia mover muito mais do que os olhos, e o peso da morfina ainda puxava seu cérebro para baixo. Mas, enquanto ela olhava para as lágrimas limpas no rosto de seu marido, algo se partiu no seu interior com a precisão de um golpe de bisturi bem executado. Não foi uma fratura barulhenta, nem desesperada. Foi limpa. Uma ressecção cirúrgica de tudo o que fora seu mundo nas últimas duas décadas.
 
-Ela focou o olhar cravado no rosto patético do marido que mentira para preservá-la doando, apertando os dedos frios na maca e desviou seus olhos para os de Silas, o velho mentor ranzinza que a fitava do outro lado da cama, avaliando o pulso e, de algum modo silencioso, compreendendo toda a farsa do teatro à sua frente.
+Ela focou o olhar cravado no rosto patético do marido que mentira para não ter que doar, apertando os dedos frios na maca e desviou seus olhos para os de Silas, o velho mentor ranzinza que a fitava do outro lado da cama, avaliando o pulso e, de algum modo silencioso, compreendendo toda a farsa do teatro à sua frente.
 
 *Eu vou voltar.*
 
