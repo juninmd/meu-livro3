@@ -1,5 +1,5 @@
 export default {
-  title: 'Recomeço de Bahar (Helena)',
+  title: 'O Recomeço de Helena',
   description: 'Um drama contemporâneo sobre resiliência, família e a busca por um novo sentido.',
   base: '/meu-livro3/',
   themeConfig: {
