@@ -1,7 +1,7 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Meu Livro 3",
   "main": "index.js",
   "directories": {
     "doc": "docs"

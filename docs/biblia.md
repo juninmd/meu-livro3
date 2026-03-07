@@ -1,24 +1,24 @@
-# Bíblia da História: Recomeço de Bahar
+# Bíblia da História: O Recomeço de Helena
 
-## A Protagonista: Bahar Yavuz
-* **Background:** Uma mulher de 42 anos que, no auge dos seus vinte anos, abandonou uma promissora carreira na medicina (estava no meio da residência) para se dedicar à família.
-* **O Catalisador (A Doença):** Bahar sofreu uma grave insuficiência hepática e necessitou de um transplante de fígado urgente. A doença a levou à beira da morte, revelando o quanto ela havia negligenciado sua própria saúde e desejos por vinte anos.
-* **Medos Atuais:** O medo de falhar na residência com médicos que têm a idade dos seus filhos, o temor de que seu corpo rejeite o órgão transplantado e a culpa persistente de "abandonar" as necessidades da família para cuidar de si mesma.
+## Premissa Geral
+A narrativa acompanha Helena, uma mulher que abandonou uma promissora carreira como cirurgiã após o nascimento do primeiro filho para se dedicar à família. Vinte anos depois, uma grave crise de saúde (insuficiência hepática necessitando de transplante) e a descoberta de uma traição dupla (do marido egoísta e do filho acomodado) a forçam a reavaliar sua vida. Ela decide, então, retomar a carreira médica do zero, lutando contra o tempo perdido, os olhares tortos da sociedade, e as exigências físicas e mentais de uma residência médica ao lado de colegas com metade da sua idade.
 
-## O Núcleo Familiar
-* **Timur Yavuz (O Marido):** Um cirurgião renomado, vaidoso e narcisista. Por fora, o marido perfeito; por dentro, ausente, manipulador e esconde um caso extraconjugal de anos. Ele foi o principal obstáculo durante a doença de Bahar, recusando-se a doar parte do seu fígado por medo de prejudicar sua carreira e estética, o que destruiu a ilusão de um casamento perfeito.
-* **Umay Yavuz (A Filha Caçula):** Adolescente de 16 anos. Rebelde, sensível e aspirante a artista, mas forçada pelo pai a focar em exatas/medicina. Sente-se negligenciada com a nova rotina da mãe.
-* **Aziz Yavuz (O Filho Mais Velho):** 24 anos. Residente no mesmo hospital onde Bahar vai tentar recomeçar. Sente vergonha da mãe no ambiente de trabalho e lida com a pressão asfixiante do pai para ser perfeito.
+## Protagonista
+* **Nome:** Helena Resende (45 anos).
+* **Background:** Formou-se com honras na Faculdade de Medicina, era considerada a melhor residente de sua turma. Abriu mão da cirurgia para cuidar do marido, que estava iniciando a carreira, e dos filhos. Passou as últimas duas décadas como "mãe em tempo integral" e "esposa de fachada".
+* **O Catalisador (A Doença):** Uma hepatite autoimune fulminante que evolui rapidamente para insuficiência hepática, exigindo um transplante urgente.
+* **Medos Atuais:** O medo de morrer antes de ter "vivido de verdade". O terror de falhar como médica após tantos anos longe dos bisturis. A insegurança de ser invisível após os 40 anos.
 
-## O Núcleo Hospitalar (Hospital Fundação Perla)
-* **Evren Yücel (O Mentor/Aliado):** O cirurgião que operou Bahar (fez o transplante). Um homem reservado, empático, mas marcado por seus próprios fantasmas do passado. Ele é um contraste direto com a arrogância de Timur.
-* **Rengin Çevik (A Rival/O Segredo):** Médica de sucesso no mesmo hospital. Ela é a amante de Timur. Extremamente competente e fria, vê a entrada de Bahar no hospital não apenas como um incômodo profissional, mas como uma ameaça à vida paralela que construiu.
-* **Cagla (A Residente Rival):** Uma residente jovem, obcecada por resultados e que vê a presença de uma mulher de 42 anos na residência como uma piada e um desperdício de vaga.
+## Núcleo Familiar
+* **O Cônjuge (Roberto, 47 anos):** Médico renomado, charmoso, mas um narcisista enrustido. Acostumou-se a ter Helena como sua "retaguarda". A fachada cai quando Helena precisa do transplante; os exames mostram que Roberto é compatível (poderia doar parte do fígado), mas ele *inventa uma desculpa médica e se recusa* por medo das complicações cirúrgicas, temendo que isso atrapalhe uma viagem a um congresso na Europa e seus casos extraconjugais.
+* **Os Filhos:**
+  * **Lucas (22 anos):** Estudante de medicina acomodado, idolatra o pai e trata a mãe como empregada. Reproduz o machismo estrutural do ambiente familiar.
+  * **Sofia (19 anos):** Rebelde, cursa Artes. Tem uma relação conflituosa com Helena por achá-la "submissa demais", mas será a primeira a apoiar a mãe quando a verdade sobre o pai vier à tona.
+
+## Núcleo Hospitalar / Profissional
+* **O Rival (Dr. Evandro, 30 anos):** O chefe dos residentes. Arrogante, brilhante, vê Helena como uma "vovó" que está ocupando a vaga de um jovem promissor. Vai pegar no pé dela por cada erro técnico.
+* **A Aliada (Drª. Camila, 25 anos):** Residente do primeiro ano, brilhante, mas com síndrome do impostor e paralisada pelo pânico sob pressão. Helena se torna sua figura materna informal no hospital.
+* **O Mentor Inesperado (Dr. Silas, 55 anos):** Cirurgião-chefe experiente e ranzinza. Conhecia Helena na época da faculdade. Exige dela o dobro do que exige dos outros, mas no fundo quer que ela recupere seu brilhantismo perdido.
 
 ## O Incidente Incitante
-O evento que fez Bahar mudar de vida ocorreu logo após sua cirurgia de transplante. Ainda debilitada no leito do hospital, ela descobriu que Timur se recusara a ser o doador (e que a doação acabou vindo de uma pessoa anônima no último segundo). Essa revelação, somada à frieza da família durante sua recuperação, acendeu uma raiva fria e uma epifania profunda: ela dedicou a vida a pessoas que não fariam o mesmo por ela. Ao receber alta, sua primeira atitude não foi voltar para a cozinha de casa, mas sim pegar seus velhos livros de medicina cobertos de pó.
-
-## Pilares de Estilo e Tom
-* **Voz Narrativa:** Terceira pessoa limitada (foco em Bahar). Realismo tátil (cheiros, exaustão física, o peso dos passos).
-* **Estética Realista:** Sem glamourização da medicina. Contas atrasadas, dores nas costas pós-transplante, cheiro de antisséptico, machismo estrutural e microagressões de etarismo.
-* **Conflito Humano:** A tensão principal não é "salvar o mundo", mas "salvar a si mesma" sem destruir a família, equilibrando a vocação sufocada com a realidade de ser mãe e recém-transplantada.
+Helena, em estado crítico na UTI, descobre, ao escutar uma conversa vazada da equipe médica, que Roberto é perfeitamente compatível para a doação de fígado, mas alegou aos médicos um "quadro de hipertensão grave" falso para se recusar a ser o doador vivo. Quem acaba salvando sua vida é um doador anônimo (cadáver) nos últimos instantes. Acordar da anestesia e encarar o marido fingindo tristeza pela sua situação é o estopim para a decisão: ela não vai apenas sobreviver, vai viver por si mesma.
