@@ -8,7 +8,7 @@ export default defineConfig({
     nav: [
       { text: 'Início', link: '/' },
       { text: 'Bíblia da História', link: '/biblia' },
-      { text: 'Capítulos', link: '/capitulos/capitulo-01' }
+      { text: 'Capítulos', link: '/capitulo-01' }
     ],
 
     sidebar: [
@@ -21,13 +21,15 @@ export default defineConfig({
       {
         text: 'Capítulos',
         items: [
-          { text: 'Capítulo 1', link: '/capitulos/capitulo-01' }
+          { text: 'Capítulo 1', link: '/capitulo-01' },
+          { text: 'Capítulo 2', link: '/capitulo-02' }
         ]
       },
       {
         text: 'Análises',
         items: [
-          { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' }
+          { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
+          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' }
         ]
       }
     ]
