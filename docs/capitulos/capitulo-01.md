@@ -1,62 +1,63 @@
 ---
-title: "Capítulo 1: O Primeiro Plantão"
-data_in_game: "Segunda-feira, 4 de Março"
-localizacao: "Hospital Fundação Perla, Sala de Descanso"
-personagens: ["Bahar Yavuz", "Evren Yücel", "Cagla", "Timur Yavuz"]
+Título: O Peso da Própria Pele
+Data In-Game: 14 de Março, 2024
+Localização: UTI, Hospital Fundação Peran
+Personagens Presentes: Bahar Yavuz, Timur Yavuz, Dr. Evren
 ---
 
-# Capítulo 1: O Primeiro Plantão
+# Capítulo 1: O Peso da Própria Pele
 
-As costas de Bahar doíam com uma pontada surda, um lembrete constante da cicatriz em forma de "L" que atravessava seu abdômen sob o pijama cirúrgico. Ela ajustou o elástico frouxo na cintura, que pinçava a pele ainda sensível da cirurgia de quatro meses atrás, e fechou os olhos por um segundo. O cheiro rascante de clorexidina e suor velho do vestiário impregnava suas narinas, uma mistura que por duas décadas esteve restrita apenas às roupas que Timur atirava no cesto ao chegar do trabalho. Agora, o cheiro era dela.
+A primeira coisa que Bahar sentiu não foi dor, mas um frio cirúrgico, daquele que parece congelar a medula espinhal e rastejar pela nuca. Depois, o bipe cadenciado. *Bip. Bip. Bip.* O som seco das máquinas preenchia o vazio silencioso do quarto da Unidade de Terapia Intensiva. Ela tentou engolir em seco, mas a garganta parecia forrada de lixa e uma sede desesperadora, quase primitiva, a dominava.
 
-Bahar tinha quarenta e dois anos. Suas colegas de residência tinham vinte e seis.
+O cheiro agridoce e forte de clorexidina misturado ao odor amargo de plástico hospitalar invadiu suas narinas, ativando uma memória muito antiga. A residência. O cheiro de noites sem fim, adrenalina e decisões rápidas. Ela piscou, a luz branca ofuscante dos painéis de LED no teto a forçando a semicerrar os olhos enquanto uma dor latejante e aguda, como um rasgo quente e vivo, irradiava pelo lado direito de seu abdômen.
 
-Ela abriu os olhos e encarou o reflexo no espelho manchado da sala de descanso. Seu cabelo, antes uma cascata castanha impecavelmente escovada para os jantares de gala do marido, agora estava preso em um coque desordenado. Olheiras arroxeadas denunciavam a noite maldormida revisando a dosagem de dobutamina.
+— Calma, calma. Não tente se mexer ainda.
 
-— Licença, *doutora* Bahar. — A voz carregada de sarcasmo veio da porta.
+A voz era profunda, rouca e desconhecida. Bahar girou o pescoço milimetricamente. Ao pé da cama, um homem de jaleco aberto, camisa amarfanhada por baixo, e olhos escuros que examinavam os monitores com uma precisão cirúrgica. O crachá balançava preso ao bolso. *Dr. Evren*.
 
-Cagla, a chefe dos residentes do primeiro ano, passou por ela com um copo térmico na mão. A jovem mal a olhou, digitando freneticamente no celular com as unhas vermelhas e perfeitas. Bahar recuou instintivamente, como se pedisse desculpas por ocupar espaço. A velha Bahar diria: *"Desculpe querida, já estou saindo"*.
+Ela tentou articular uma palavra, mas apenas um chiado arranhou seus lábios ressecados.
 
-A nova Bahar engoliu o pedido de perdão. Ela segurou o crachá recém-impresso contra o peito e saiu para o corredor.
+— Água? — ele adivinhou, pegando uma gaze umedecida e passando suavemente pelos lábios dela. — Apenas algumas gotas por agora. O transplante foi um sucesso, Bahar. Seu novo fígado está funcionando bem. Você deu um belo susto em todos nós.
 
-O Hospital Fundação Perla acordava como uma máquina devoradora de pessoas. Macas batiam contra as paredes azulejadas, telefones gritavam nos postos de enfermagem e luzes fluorescentes piscavam, impiedosas. Seus pés calçados em tênis ortopédicos — um luxo para os joelhos cansados de anos limpando a poeira que a faxineira não alcançava — começaram a se mover.
+Bahar sugou a pequena quantidade de umidade com avidez. *Transplante*. A palavra caiu pesada, afundando na névoa dos sedativos. As memórias começaram a retornar em fragmentos caóticos: a fraqueza repentina na cozinha, a pele ganhando um tom amarelado e doentio no espelho do corredor, a dor excruciante, o diagnóstico devastador de insuficiência hepática aguda e fulminante. A contagem regressiva. As horas que se esvaíam.
 
-Ao dobrar o corredor da Unidade de Terapia Intensiva, ela o viu. Timur.
+Então, outra lembrança se materializou, nítida e cruel como um corte de bisturi.
 
-O cirurgião caminhava escoltado por uma pequena corte de internos assustados. O jaleco de Timur não possuía nenhum vinco. Seus passos não pareciam hesitar sobre o linóleo desgastado. Quando os olhos dele cruzaram os dela, o sorriso no rosto do marido desapareceu, substituído por uma contração imperceptível no maxilar. Ele desviou o olhar tão rápido que Bahar sentiu um gosto amargo na boca. Ele sentia vergonha.
+Antes de apagar pela última vez na emergência, ela tinha ouvido, meio grogue, a conversa no corredor. Timur, seu marido, o respeitado e impecável cirurgião Timur Yavuz. A voz dele, geralmente firme e cheia de certezas inabaláveis no jantar da família, tremia com uma hesitação calculada e defensiva diante da equipe de transplante.
 
-*Ele me deixou morrer*, pensou Bahar, a memória retornando indesejada. A voz polida dele ecoando pelo quarto do hospital meses atrás, justificando ao médico assistente que uma "biópsia hepática poderia arruinar suas mãos finas" e que seu fígado gordo talvez não fosse adequado, apesar do exame atestar o contrário.
+*"Não, eu... O risco de uma hepatectomia para o doador, você sabe, é considerável para a minha idade. Eu tenho uma carreira... minhas mãos precisam estar perfeitas, a recuperação..."*
 
-— Dr. Yavuz! — Bahar parou, sentindo as pernas tremerem, mas manteve o queixo erguido.
+Ele era compatível. O fígado dele era o encaixe perfeito que ela precisava para não morrer. Mas Timur não queria correr o risco de ter a carreira paralisada por alguns meses, de ficar com uma cicatriz feia na barriga, de sentir dor por *ela*. O homem para quem ela havia preparado o jantar, passado as camisas e anulado a própria juventude não estava disposto a ceder uma vírgula de sua vida confortável e gloriosa para salvá-la.
 
-Timur freou o passo. A corte parou de sobressalto.
+— O doador? — Ela finalmente conseguiu sussurrar. A voz soou rasgada.
 
-— Sim, Doutora...? — O marido fingiu conferir o crachá dela. Um golpe baixo para afirmar hierarquia diante de todos.
+Dr. Evren parou por um segundo, os olhos escuros se demorando nela com uma seriedade empática que pesou ainda mais.
+— Tivemos sorte. Uma doação cadavérica compatível apareceu no último momento. Seu marido e seus filhos estão lá fora. Timur acompanhou o pós-operatório imediato, mas achamos melhor ele descansar.
 
-— Apenas queria confirmar a interconsulta da paciente do leito quatro. A senhora Yilmaz. Ela apresenta um quadro abdominal agudo e precisamos da avaliação da cirurgia geral. — A voz de Bahar saiu estranhamente firme. O treinamento suprimido por vinte anos acordava.
+Bahar assentiu devagar, fechando os olhos enquanto uma lágrima quente, rápida e solitária escorria até o travesseiro de algodão áspero. Não era choro de alívio por estar viva. Era o luto silencioso por tudo que estava morrendo naquele exato instante, ali mesmo, naquela cama de hospital.
 
-Timur suspirou dramaticamente, olhando para o relógio. — Se a senhora leu o prontuário como um R1 deveria, notaria que a tomografia já foi solicitada. Deixe as decisões complexas para quem não precisou de um fígado novo há pouco tempo, sim? Não queremos que tenha uma recaída pelo estresse.
+Ela olhou para as próprias mãos, finas, pálidas, as veias perfuradas por cateteres venosos. Mãos que haviam embalado Aziz e Umay, que haviam dobrado as roupas de Timur por vinte anos. Ela tinha desistido de ser médica para ser a fundação de uma família que, na hora da morte, hesitou em lhe estender a mão.
 
-A corte de internos soltou risinhos nervosos. Bahar sentiu o rosto queimar, não de humilhação, mas de uma raiva vulcânica que subia pela garganta. Antes que pudesse responder, uma voz grave cortou o corredor.
+O silêncio do quarto foi rompido pelo leve ranger da porta. Timur entrou, o jaleco branco sempre impecável agora apenas ligeiramente amassado, os cabelos escovados para trás, o rosto adotando a máscara perfeita do marido aliviado e preocupado.
 
-— A residente está correta em solicitar a avaliação clínica prévia da equipe cirúrgica, Dr. Yavuz. É o protocolo da UTI, não acha?
+— Querida. Você acordou. — A voz dele era suave, contida, como quem fala com uma paciente fragilizada no round matinal. Ele se aproximou, e o leve aroma de seu perfume caro – amadeirado e cítrico – invadiu o ar, anulando temporariamente o cheiro de antisséptico. Ele pousou a mão sobre o lençol, perto do braço dela, mas sem tocá-la diretamente.
 
-Bahar virou-se. Evren Yücel se aproximava. O médico responsável pelo transplante dela, agora chefe da clínica médica. Diferente de Timur, o jaleco de Evren estava desabotoado, e ele não carregava uma corte de admiradores, apenas um estetoscópio surrado no pescoço e uma expressão indecifrável sob os olhos castanhos cansados.
+— Oi, Timur. — A voz de Bahar não tremeu. Para sua própria surpresa, o medo e a subserviência crônica que geralmente acompanhavam seu tom ao falar com o marido haviam desaparecido. No lugar disso, havia um cansaço denso e gelado.
 
-Timur endireitou a postura. A rivalidade entre os dois não era segredo no hospital. Evren era o médico do povo, o cirurgião brilhante que preferia o trauma caótico à clínica particular polida que Timur comandava.
+— Nós ficamos com tanto medo... — ele começou, o tom treinado de empatia profissional. — Foi um milagre.
 
-— Apenas orientando a residente a ser mais... eficiente, Dr. Yücel. — Timur forçou um sorriso rígido. — Minha equipe cuidará disso.
+— Sim — Bahar murmurou, os olhos fixos nos de Timur. — Um milagre anônimo.
 
-Timur partiu com seu séquito. Bahar sentiu o ar voltar aos pulmões em um suspiro trêmulo.
+Ela viu o leve, quase imperceptível, tensionamento do maxilar de Timur. Ele sabia que ela sabia? E mais importante: ele se importava?
 
-— Respirar ajuda, Bahar — Evren murmurou, parando ao lado dela. Ele não a chamou de "doutora". Para ele, ela ainda era a paciente desesperada no leito de UTI que recusava morrer.
+Timur pigarreou, a máscara de marido dedicado sofrendo uma fissura milimétrica antes de se recompor. — O importante é que você vai ficar boa. Voltar para casa. Voltar para a nossa vida.
 
-— Eu não preciso que me defenda — ela disse, a defensiva armando seu tom. — Se eu não conseguir lidar com ele, como vou lidar com um paciente descompensado?
+Bahar desviou o olhar para o monitor, ouvindo o próprio batimento cardíaco preencher o silêncio pesado. Voltar para casa. Voltar para *a nossa vida*. Fazer os jantares, esperar pelas longas noitadas de plantão (ou o que quer que ele fizesse quando não voltava). Ser a sombra confortável que sustentava o brilho dele.
 
-Evren virou-se para ela. Os olhos dele encontraram os dela com uma honestidade brutal. Ele notou a mão dela apertando o próprio abdômen.
+A dor na incisão da barriga pulsou forte, uma queimação latejante que a lembrou do limite estreito entre a vida e a morte, um abismo no qual ela quase caiu sozinha. Ela apertou os dedos trêmulos contra o lençol até os nós das mãos ficarem brancos.
 
-— Eu te dei um fígado, Bahar. Não um exoesqueleto de titânio. Você não precisa engolir espadas no primeiro dia. — Ele suspirou, folheando um bloco de notas. — A senhora Yilmaz no leito quatro. Acompanhe a tomografia. Se Timur estiver certo, você assina a liberação e ele opera. Se ele estiver errado...
+— Eu não vou voltar, Timur — ela disse, a voz num sussurro cortante.
 
-Ele deixou a frase morrer no ar, mas Bahar completou em silêncio: *Se ele estiver errado, eu não vou me calar de novo.*
+O marido franziu o cenho, a expressão adotando um ar de complacência condescendente, pronto para medicar a confusão mental da esposa. — Bahar, é a sedação, é o trauma... Você precisa de descanso.
 
-Ela assentiu, virando as costas para Evren, seus tênis brancos batendo contra o chão com uma determinação nova. As pernas ainda doíam e a cicatriz latejava, mas pela primeira vez em vinte anos, Bahar estava correndo em direção ao seu próprio futuro, não varrendo o passado dos outros.
+— Eu nunca estive tão lúcida — ela rebateu, virando o rosto lentamente de volta para ele, o olhar cravando-se nos olhos esquivos do marido com a precisão de um bisturi abrindo uma ferida antiga. — Eu estou viva. E a partir de amanhã, essa vida... ela é *minha*.

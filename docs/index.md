@@ -2,18 +2,22 @@
 layout: home
 
 hero:
-  name: "Recomeço de Helena"
-  text: "Uma história sobre resiliência, relacionamentos complexos e a coragem de recomeçar a vida."
-  tagline: "Ela dedicou sua vida aos outros. Agora, precisará lutar por si mesma."
+  name: "Recomeço de Bahar"
+  text: "Uma mulher, um recomeço e a coragem de viver."
+  tagline: "Acompanhe a jornada de Bahar Yavuz retomando sua vida após uma crise que mudou tudo."
   actions:
     - theme: brand
-      text: Ler A Bíblia da História
-      link: /biblia
+      text: Ler o Capítulo 1
+      link: /capitulos/capitulo-01
     - theme: alt
-      text: Ler Capítulo 1
-      link: /capitulo-01
+      text: Conhecer a História (Bíblia)
+      link: /biblia
+
+features:
+  - title: Drama Realista Contemporâneo
+    details: Focado na resiliência, sem ficção científica, abordando as lutas diárias e a realidade hospitalar.
+  - title: Relacionamentos Complexos
+    details: As difíceis dinâmicas familiares, casamentos em crise e o peso do machismo estrutural.
+  - title: Medicina e Recomeço
+    details: O desafio de voltar ao mercado de trabalho e se redescobrir após os 40 anos.
 ---
-
-## Sobre a História
-
-Após abdicar de uma promissora carreira médica para se dedicar integralmente à família, Helena se vê diante de um diagnóstico implacável que expõe as fraturas de seu casamento aparentemente perfeito e a verdadeira natureza daqueles ao seu redor. Uma jornada de redescoberta, drama realista e recomeços.

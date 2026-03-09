@@ -1,24 +1,22 @@
-# Bíblia da História: O Recomeço de Helena
-
-## Premissa Geral
-A narrativa acompanha Helena, uma mulher que abandonou uma promissora carreira como cirurgiã após o nascimento do primeiro filho para se dedicar à família. Vinte anos depois, uma grave crise de saúde (insuficiência hepática necessitando de transplante) e a descoberta de uma traição dupla (do marido egoísta e do filho acomodado) a forçam a reavaliar sua vida. Ela decide, então, retomar a carreira médica do zero, lutando contra o tempo perdido, os olhares tortos da sociedade, e as exigências físicas e mentais de uma residência médica ao lado de colegas com metade da sua idade.
+# Bíblia da História - Recomeço de Bahar
 
 ## Protagonista
-* **Nome:** Helena Resende (45 anos).
-* **Background:** Formou-se com honras na Faculdade de Medicina, era considerada a melhor residente de sua turma. Abriu mão da cirurgia para cuidar do marido, que estava iniciando a carreira, e dos filhos. Passou as últimas duas décadas como "mãe em tempo integral" e "esposa de fachada".
-* **O Catalisador (A Doença):** Uma hepatite autoimune fulminante que evolui rapidamente para insuficiência hepática, exigindo um transplante urgente.
-* **Medos Atuais:** O medo de morrer antes de ter "vivido de verdade". O terror de falhar como médica após tantos anos longe dos bisturis. A insegurança de ser invisível após os 40 anos.
+**Nome:** Bahar Yavuz
+**Background:** Formada em medicina com louvor há 20 anos, abandonou a carreira na residência para cuidar da família após o casamento e o nascimento dos filhos. Dedicou as últimas duas décadas exclusivamente à casa, ao marido e aos filhos, invisibilizando seus próprios desejos e talentos.
+**A Crise/Doença (Catalisador):** Insuficiência hepática fulminante repentina. Precisou urgentemente de um transplante de fígado para sobreviver.
+**Medos Atuais:** Fracassar na tentativa de retomar a medicina aos 40+ anos, ser ridicularizada por colegas mais jovens, perder o vínculo afetuoso com os filhos devido à nova rotina exaustiva, e enfrentar o vazio deixado pela desilusão de seu casamento.
 
 ## Núcleo Familiar
-* **O Cônjuge (Roberto, 47 anos):** Médico renomado, charmoso, mas um narcisista enrustido. Acostumou-se a ter Helena como sua "retaguarda". A fachada cai quando Helena precisa do transplante; os exames mostram que Roberto é compatível (poderia doar parte do fígado), mas ele *inventa uma desculpa médica e se recusa* por medo das complicações cirúrgicas, temendo que isso atrapalhe uma viagem a um congresso na Europa e seus casos extraconjugais.
-* **Os Filhos:**
-  * **Lucas (22 anos):** Estudante de medicina acomodado, idolatra o pai e trata a mãe como empregada. Reproduz o machismo estrutural do ambiente familiar.
-  * **Sofia (19 anos):** Rebelde, cursa Artes. Tem uma relação conflituosa com Helena por achá-la "submissa demais", mas será a primeira a apoiar a mãe quando a verdade sobre o pai vier à tona.
+**O Cônjuge (Timur Yavuz):** Cirurgião renomado, narcisista, controlador e covarde emocionalmente. Mantém uma imagem pública impecável de "marido perfeito e médico genial", mas em casa desvaloriza Bahar. A maior falha: Recusou-se a doar parte de seu fígado (sendo compatível) para salvar a esposa, inventando desculpas médicas. Mantém um caso extraconjugal de longa data.
+**Os Filhos:**
+*   **Aziz (Filho mais velho):** Residente no mesmo hospital onde o pai trabalha (e onde Bahar tenta entrar). Sente o peso das expectativas do pai. Teme a reação dos outros ao ver sua mãe no mesmo nível hierárquico (ou inferior) que ele.
+*   **Umay (Filha mais nova):** Adolescente rebelde. Ama artes, mas o pai a pressiona para a medicina. Está em fase de conflitos típicos, sentindo a mudança abrupta da mãe "sempre disponível" para a "mãe ocupada e exausta".
 
-## Núcleo Hospitalar / Profissional
-* **O Rival (Dr. Evandro, 30 anos):** O chefe dos residentes. Arrogante, brilhante, vê Helena como uma "vovó" que está ocupando a vaga de um jovem promissor. Vai pegar no pé dela por cada erro técnico.
-* **A Aliada (Drª. Camila, 25 anos):** Residente do primeiro ano, brilhante, mas com síndrome do impostor e paralisada pelo pânico sob pressão. Helena se torna sua figura materna informal no hospital.
-* **O Mentor Inesperado (Dr. Silas, 55 anos):** Cirurgião-chefe experiente e ranzinza. Conhecia Helena na época da faculdade. Exige dela o dobro do que exige dos outros, mas no fundo quer que ela recupere seu brilhantismo perdido.
+## Núcleo Hospitalar/Profissional (Hospital Fundação Peran)
+**Rivais/Antagonistas:**
+*   **Rengin:** Médica brilhante e respeitada. Foi colega de faculdade de Bahar e Timur. É a amante de Timur. Vê Bahar como uma amadora que jogou o diploma fora e agora tenta roubar uma vaga de jovens dedicados. Usa seu poder no hospital para tentar forçar a desistência de Bahar.
+**Mentores e Aliados:**
+*   **Evren:** Cirurgião genial e excêntrico, recém-chegado ao hospital. Foi o médico responsável pelo transplante que salvou Bahar. É justo, perceptivo e não se importa com a política do hospital. Vê o verdadeiro potencial de Bahar e se torna seu mentor implacável, porém justo.
 
 ## O Incidente Incitante
-Helena, em estado crítico na UTI, descobre, ao escutar uma conversa vazada da equipe médica, que Roberto é perfeitamente compatível para a doação de fígado, mas alegou aos médicos um "quadro de hipertensão grave" falso para se recusar a ser o doador vivo. Quem acaba salvando sua vida é um doador anônimo (cadáver) nos últimos instantes. Acordar da anestesia e encarar o marido fingindo tristeza pela sua situação é o estopim para a decisão: ela não vai apenas sobreviver, vai viver por si mesma.
+A insuficiência hepática de Bahar. À beira da morte, ela descobre que seu marido, Timur, perfeitamente compatível, se recusa a ser o doador por egoísmo e medo. Ela é salva no último minuto por um doador anônimo (cujo transplante é conduzido por Evren). Ao acordar da cirurgia, ao invés de alívio, Bahar sente a clarividência da traição: ela sacrificou sua vida por um homem que não sacrificaria um pedaço do fígado por ela. Esse é o momento de ruptura. Ela decide, ainda no leito de UTI, que não morrerá antes de viver para si mesma. Sua primeira meta: voltar ao hospital, não como paciente ou esposa de médico, mas como residente.
