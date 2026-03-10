@@ -7,8 +7,20 @@ export default defineConfig({
     nav: [
       { text: 'Início', link: '/' },
       { text: 'Bíblia da História', link: '/biblia' },
-      { text: 'Capítulos', link: '/capitulos/capitulo-01' },
-      { text: 'Análises', link: '/analises/analise-01' }
+      {
+        text: 'Capítulos',
+        items: [
+          { text: 'Capítulo 1', link: '/capitulos/capitulo-01' },
+          { text: 'Capítulo 2', link: '/capitulo-02' }
+        ]
+      },
+      {
+        text: 'Análises',
+        items: [
+          { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
+          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' }
+        ]
+      }
     ],
     sidebar: [
       {
@@ -20,13 +32,15 @@ export default defineConfig({
       {
         text: 'Capítulos',
         items: [
-          { text: 'Capítulo 1: O Peso da Própria Pele', link: '/capitulos/capitulo-01' }
+          { text: 'Capítulo 1: O Peso da Própria Pele', link: '/capitulos/capitulo-01' },
+          { text: 'Capítulo 2', link: '/capitulo-02' }
         ]
       },
       {
         text: 'Análises',
         items: [
-          { text: 'Análise 01', link: '/analises/analise-01' }
+          { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
+          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' }
         ]
       }
     ]
