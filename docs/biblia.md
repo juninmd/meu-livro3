@@ -1,22 +1,22 @@
-# Bíblia da História - Recomeço de Bahar
+# Bíblia da História - Recomeço de Bahar (Reboot)
 
 ## Protagonista
 **Nome:** Bahar Yavuz
-**Background:** Formada em medicina com louvor há 20 anos, abandonou a carreira na residência para cuidar da família após o casamento e o nascimento dos filhos. Dedicou as últimas duas décadas exclusivamente à casa, ao marido e aos filhos, invisibilizando seus próprios desejos e talentos.
-**A Crise/Doença (Catalisador):** Insuficiência hepática fulminante repentina. Precisou urgentemente de um transplante de fígado para sobreviver.
-**Medos Atuais:** Fracassar na tentativa de retomar a medicina aos 40+ anos, ser ridicularizada por colegas mais jovens, perder o vínculo afetuoso com os filhos devido à nova rotina exaustiva, e enfrentar o vazio deixado pela desilusão de seu casamento.
+**Background:** Uma mulher na casa dos 40 anos. Há vinte anos, abandonou uma residência médica promissora, logo após a graduação com honras, para se dedicar integralmente ao marido, Timur, e aos dois filhos. Ela tornou-se a espinha dorsal invisível de uma família aparentemente perfeita, silenciando suas próprias ambições e justificando seu sacrifício como um ato de amor maior.
+**A Crise/Doença (Catalisador):** Uma insuficiência hepática aguda de causa misteriosa que a colocou na fila de transplante, à beira da morte em questão de dias.
+**Medos Atuais:** Além do medo natural da morte, seu maior terror é a insignificância — perceber que, se ela desaparecer, o mundo (e sua família) continuará girando sem que ela tenha deixado uma marca própria. Ela teme a humilhação de tentar voltar à medicina depois de tanto tempo e o distanciamento dos filhos.
 
 ## Núcleo Familiar
-**O Cônjuge (Timur Yavuz):** Cirurgião renomado, narcisista, controlador e covarde emocionalmente. Mantém uma imagem pública impecável de "marido perfeito e médico genial", mas em casa desvaloriza Bahar. A maior falha: Recusou-se a doar parte de seu fígado (sendo compatível) para salvar a esposa, inventando desculpas médicas. Mantém um caso extraconjugal de longa data.
+**O Cônjuge (Timur Yavuz):** Cirurgião-chefe no prestigiado Hospital Fundação Peran. É narcisista, controlador, obcecado pela própria imagem pública e condescendente com Bahar. A falha fatal: Quando Bahar precisou de um transplante de fígado urgente e ele se revelou o único doador perfeitamente compatível e imediato, ele se recusou, alegando, em segredo, medos mesquinhos e desculpas sobre as mãos necessárias para operar seus próprios pacientes. Ele mantém um caso prolongado com a Dra. Rengin. Seu arco, no entanto, deve convergir para uma quebra de seu ego e uma eventual redenção tardia ou aceitação pacífica do divórcio para um final positivo.
 **Os Filhos:**
-*   **Aziz (Filho mais velho):** Residente no mesmo hospital onde o pai trabalha (e onde Bahar tenta entrar). Sente o peso das expectativas do pai. Teme a reação dos outros ao ver sua mãe no mesmo nível hierárquico (ou inferior) que ele.
-*   **Umay (Filha mais nova):** Adolescente rebelde. Ama artes, mas o pai a pressiona para a medicina. Está em fase de conflitos típicos, sentindo a mudança abrupta da mãe "sempre disponível" para a "mãe ocupada e exausta".
+*   **Aziz (Filho mais velho):** Residente do primeiro ano no mesmo hospital do pai. É arrogante, sufocado pelas expectativas paternas e negligente com a mãe, considerando-a apenas uma prestadora de serviços domésticos. Seu arco envolverá reconhecer o talento e o sacrifício de Bahar, tornando-se seu maior aliado no hospital.
+*   **Umay (Filha mais nova):** Adolescente rebelde e artista frustrada. Pressionada por Timur a seguir medicina. Ela ama a mãe, mas ressente a passividade de Bahar. Seu arco é a reconciliação e o apoio mútuo, enquanto Bahar a ajuda a trilhar seu próprio caminho nas artes.
 
 ## Núcleo Hospitalar/Profissional (Hospital Fundação Peran)
-**Rivais/Antagonistas:**
-*   **Rengin:** Médica brilhante e respeitada. Foi colega de faculdade de Bahar e Timur. É a amante de Timur. Vê Bahar como uma amadora que jogou o diploma fora e agora tenta roubar uma vaga de jovens dedicados. Usa seu poder no hospital para tentar forçar a desistência de Bahar.
+**Rivais e Antagonistas:**
+*   **Rengin:** Uma médica brilhante, respeitada e antiga colega de faculdade de Bahar e Timur. Ela é a amante de Timur. Ela despreza as escolhas de Bahar, vendo-a como uma fraca que jogou o diploma fora. O arco de Rengin envolverá a desilusão com Timur, forjando um respeito profissional genuíno (e surpreendente) por Bahar no final.
 **Mentores e Aliados:**
-*   **Evren:** Cirurgião genial e excêntrico, recém-chegado ao hospital. Foi o médico responsável pelo transplante que salvou Bahar. É justo, perceptivo e não se importa com a política do hospital. Vê o verdadeiro potencial de Bahar e se torna seu mentor implacável, porém justo.
+*   **Evren Yilmaz:** Cirurgião genial, excêntrico e recluso. Ele é o médico que realiza o transplante salvador de Bahar através de um doador de cadáver no último momento. Ele é direto, sarcástico, mas profundamente ético. Ele enxerga o brilho adormecido de Bahar e se tornará seu mentor implacável, e talvez um interesse romântico que a valoriza pelo que ela é.
 
 ## O Incidente Incitante
-A insuficiência hepática de Bahar. À beira da morte, ela descobre que seu marido, Timur, perfeitamente compatível, se recusa a ser o doador por egoísmo e medo. Ela é salva no último minuto por um doador anônimo (cujo transplante é conduzido por Evren). Ao acordar da cirurgia, ao invés de alívio, Bahar sente a clarividência da traição: ela sacrificou sua vida por um homem que não sacrificaria um pedaço do fígado por ela. Esse é o momento de ruptura. Ela decide, ainda no leito de UTI, que não morrerá antes de viver para si mesma. Sua primeira meta: voltar ao hospital, não como paciente ou esposa de médico, mas como residente.
+O momento exato da mudança não é a doença em si, mas a epifania logo após a cirurgia. Ainda na UTI, grogue de anestesia, Bahar ouve uma conversa médica e descobre a recusa covarde de Timur em doar seu fígado. A percepção esmagadora de que ela entregou sua vida a um homem que não arriscaria uma incisão por ela. Naquele exato instante, entre bipes de monitores e o gosto seco de traição na boca, ela jura a si mesma: a Bahar submissa morreu naquela mesa de cirurgia. Ela vai voltar ao hospital, exigir sua vaga de residência por direito e reconstruir sua vida do zero. E no fim, todos os personagens, após enfrentarem as consequências de seus atos, encontrarão a paz em caminhos divergentes, garantindo o final feliz exigido.
