@@ -2,7 +2,7 @@
 Título: "A Casa das Ilusões de Prata"
 Data In-Game: "15 de Setembro, 10:20"
 Localização: "Residência dos Yavuz"
-Personagens Presentes: "Bahar Yavuz, Timur Yavuz, Aziz Yavuz, Umay Yavuz"
+Personagens Presentes: "Bahar Yavuz, Timur Yavuz, Umay Yavuz"
 ---
 
 # Capítulo 3: A Casa das Ilusões de Prata
@@ -51,5 +51,5 @@ Sem esperar resposta, ela recomeçou a subir. A cada degrau conquistado sob a ag
 
 <!--
 Image Generation Prompt:
-"Cinematic, photorealistic medium shot of a 40-year-old Turkish woman with short, dark hair, looking exhausted but determined. She is standing at the bottom of a grand, luxurious marble staircase in a wealthy Istanbul mansion. The environment is impeccably clean but feels cold and oppressive, like a museum. She is wearing comfortable, simple clothes, clearly recovering from a recent surgery, holding her side slightly. In the background, out of focus, a sharply dressed, arrogant middle-aged man in a tailored suit looks down at her from the top of the stairs. Natural, muted autumn lighting coming through large windows, emphasizing the emotional distance and the stark contrast between her vulnerability and the house's sterile wealth. Shot on 35mm lens, 8k resolution, highly detailed."
+"Cinematic, photorealistic medium shot of a 40-year-old Turkish woman with short, dark hair, looking exhausted but determined. She is standing at the bottom of a grand, luxurious marble staircase in a wealthy Istanbul mansion. The environment is impeccably clean but feels cold and oppressive, like a museum. She is wearing comfortable, simple clothes, clearly recovering from a recent surgery, holding her side slightly. In the background, out of focus, a sharply dressed, arrogant middle-aged man in a tailored suit stands in the hall, looking shocked as she begins to climb the stairs. Natural, muted autumn lighting coming through large windows, emphasizing the emotional distance and the stark contrast between her vulnerability and the house's sterile wealth. Shot on 35mm lens, 8k resolution, highly detailed."
 -->
