@@ -1,63 +1,50 @@
 ---
-Título: O Peso da Própria Pele
-Data In-Game: 14 de Março, 2024
-Localização: UTI, Hospital Fundação Peran
-Personagens Presentes: Bahar Yavuz, Timur Yavuz, Dr. Evren
+Título: "O Silêncio da Máquina de Frequência Cardíaca"
+Data In-Game: "04 de Setembro, 08:32"
+Localização: "Unidade de Terapia Intensiva (UTI), Hospital Fundação Peran"
+Personagens Presentes: "Bahar Yavuz, Dr. Evren, Enfermeira Cláudia, Timur Yavuz (marido)"
 ---
 
-# Capítulo 1: O Peso da Própria Pele
+O bip da máquina era um martelar distante. Inicialmente, não parecia um som, mas uma pressão surda na têmpora de Bahar, um compasso metálico batendo no ritmo da sua própria sobrevivência frágil. Ela puxou o ar, e seus pulmões pareceram rasgar contra algo rígido dentro de si, um fogo que subia pelo abdômen, abaixo das costelas, do lado direito.
 
-A primeira coisa que Bahar sentiu não foi dor, mas um frio cirúrgico, daquele que parece congelar a medula espinhal e rastejar pela nuca. Depois, o bipe cadenciado. *Bip. Bip. Bip.* O som seco das máquinas preenchia o vazio silencioso do quarto da Unidade de Terapia Intensiva. Ela tentou engolir em seco, mas a garganta parecia forrada de lixa e uma sede desesperadora, quase primitiva, a dominava.
+Quando abriu os olhos, a claridade excessiva dos tubos fluorescentes não fez sentido. Sua visão embaralhou, capturando formas difusas vestidas de azul hospitalar e a moldura opaca de uma porta fechada. O cheiro denso e inconfundível do clorexidina misturado ao álcool 70% era uma lembrança violenta, uma memória tátil dos seus 24 anos, quando ela própria percorria aqueles corredores estéreis, não como uma paciente à beira da morte, mas como residente-chefe de Cirurgia. Aquilo foi há mais de vinte anos. Vinte anos de fraldas, cafés requentados para Timur, jantares atrasados por "emergências no consultório" que ele sempre arranjava de última hora.
 
-O cheiro agridoce e forte de clorexidina misturado ao odor amargo de plástico hospitalar invadiu suas narinas, ativando uma memória muito antiga. A residência. O cheiro de noites sem fim, adrenalina e decisões rápidas. Ela piscou, a luz branca ofuscante dos painéis de LED no teto a forçando a semicerrar os olhos enquanto uma dor latejante e aguda, como um rasgo quente e vivo, irradiava pelo lado direito de seu abdômen.
+— Pressão arterial estabilizando, o enxerto está reagindo — murmurou uma voz feminina ao seu lado. Uma mão enluvada tateou suavemente seu pulso, fria, eficiente. — Doutor Evren, a paciente está acordando.
 
-— Calma, calma. Não tente se mexer ainda.
+Evren, o cirurgião, era uma sombra volumosa que logo bloqueou parte da luz cruel. Ele estava suado. A máscara cirúrgica puxada para o queixo revelava um rosto de linhas fundas, envelhecido, mas seus olhos ainda guardavam aquela mesma faísca de quando ele examinava suas suturas perfeitas na faculdade.
 
-A voz era profunda, rouca e desconhecida. Bahar girou o pescoço milimetricamente. Ao pé da cama, um homem de jaleco aberto, camisa amarfanhada por baixo, e olhos escuros que examinavam os monitores com uma precisão cirúrgica. O crachá balançava preso ao bolso. *Dr. Evren*.
+— Bahar — a voz de Evren era rouca, áspera. Ele colocou a mão no ombro dela. — Deu tudo certo. O fígado novo, do doador de ontem... O corpo aceitou bem.
 
-Ela tentou articular uma palavra, mas apenas um chiado arranhou seus lábios ressecados.
+Bahar quis falar, mas sua garganta estava rasgada e o tubo entubado havia cobrado seu preço. Ela engoliu em seco, soltando um som estrangulado. Evren pareceu entender. Inclinou-se mais perto, o cheiro forte de café amanhecido emanando de seu jaleco.
 
-— Água? — ele adivinhou, pegando uma gaze umedecida e passando suavemente pelos lábios dela. — Apenas algumas gotas por agora. O transplante foi um sucesso, Bahar. Seu novo fígado está funcionando bem. Você deu um belo susto em todos nós.
+— Foram horas tensas — continuou o médico, diminuindo o tom de voz para um quase sussurro, os olhos fixos nos dela. — Eu achei que iríamos te perder. Teria sido muito mais simples se o seu marido... Bem. Isso é uma conversa para quando você estiver mais forte, Bahar.
 
-Bahar sugou a pequena quantidade de umidade com avidez. *Transplante*. A palavra caiu pesada, afundando na névoa dos sedativos. As memórias começaram a retornar em fragmentos caóticos: a fraqueza repentina na cozinha, a pele ganhando um tom amarelado e doentio no espelho do corredor, a dor excruciante, o diagnóstico devastador de insuficiência hepática aguda e fulminante. A contagem regressiva. As horas que se esvaíam.
+O peito de Bahar cedeu um centímetro antes de congelar, a respiração presa. Uma pontada aguda atingiu sua mente, cortando a névoa dos analgésicos. Antes da cirurgia, quando os últimos lampejos de consciência lutavam contra a sedação induzida pela falência hepática, ela tinha ouvido. Estava confusa, entorpecida pelas toxinas inundando seu cérebro, mas a voz sussurrada do lado de fora do vidro não a enganou.
 
-Então, outra lembrança se materializou, nítida e cruel como um corte de bisturi.
+*“Eu sinto muito, Evren, de verdade. Mas meus exames cardiológicos recentes... O risco de hipertensão pós-operatória para o doador é enorme. Eu não posso ajudar a Bahar doando metade do meu fígado e deixar as crianças desamparadas, entenda. Eu não posso correr o risco da mesa de cirurgia por causa da hepatite dela.”*
 
-Antes de apagar pela última vez na emergência, ela tinha ouvido, meio grogue, a conversa no corredor. Timur, seu marido, o respeitado e impecável cirurgião Timur Yavuz. A voz dele, geralmente firme e cheia de certezas inabaláveis no jantar da família, tremia com uma hesitação calculada e defensiva diante da equipe de transplante.
+A mentira escorregava fácil da boca de Timur, perfeitamente polida pela lábia de um homem acostumado a seduzir secretárias de clínicas e esconder amantes em congressos na Europa. Não havia problema cardiológico. Ele correra na esteira do clube dois dias antes, gabando-se do condicionamento físico para a viagem que planejava com a "equipe", que de equipe só tinha a jovem assistente de marketing da clínica dele.
 
-*"Não, eu... O risco de uma hepatectomia para o doador, você sabe, é considerável para a minha idade. Eu tenho uma carreira... minhas mãos precisam estar perfeitas, a recuperação..."*
+Ele tinha a deixado para morrer.
 
-Ele era compatível. O fígado dele era o encaixe perfeito que ela precisava para não morrer. Mas Timur não queria correr o risco de ter a carreira paralisada por alguns meses, de ficar com uma cicatriz feia na barriga, de sentir dor por *ela*. O homem para quem ela havia preparado o jantar, passado as camisas e anulado a própria juventude não estava disposto a ceder uma vírgula de sua vida confortável e gloriosa para salvá-la.
+Seu marido, o homem para quem ela havia abdicado da própria carreira porque "dois cirurgiões em casa destruiriam o casamento e os filhos", não quisera arriscar as próprias férias e uma cicatriz por sua sobrevivência.
 
-— O doador? — Ela finalmente conseguiu sussurrar. A voz soou rasgada.
+A maçaneta de aço da porta da UTI fez um clique baixo. Os olhos semicerrados de Bahar rolaram em direção ao som. Timur entrou. O terno italiano estava levemente amassado, o cabelo cuidadosamente desarrumado para transmitir a exata imagem de um marido aflito, desvelado. O rosto que tantas noites ela beijara, agradecendo pelo cansaço que ele fingia carregar pela família, exibia agora uma expressão devastada impecavelmente ensaiada.
 
-Dr. Evren parou por um segundo, os olhos escuros se demorando nela com uma seriedade empática que pesou ainda mais.
-— Tivemos sorte. Uma doação cadavérica compatível apareceu no último momento. Seu marido e seus filhos estão lá fora. Timur acompanhou o pós-operatório imediato, mas achamos melhor ele descansar.
+— Evren — ele sussurrou, a voz embargada, apressando os passos. — Diga-me que ela está bem.
 
-Bahar assentiu devagar, fechando os olhos enquanto uma lágrima quente, rápida e solitária escorria até o travesseiro de algodão áspero. Não era choro de alívio por estar viva. Era o luto silencioso por tudo que estava morrendo naquele exato instante, ali mesmo, naquela cama de hospital.
+Ele se aproximou da cama e pegou a mão direita de Bahar, apertando-a contra o rosto. Sua pele era quente. Quente e insuportavelmente familiar.
 
-Ela olhou para as próprias mãos, finas, pálidas, as veias perfuradas por cateteres venosos. Mãos que haviam embalado Aziz e Umay, que haviam dobrado as roupas de Timur por vinte anos. Ela tinha desistido de ser médica para ser a fundação de uma família que, na hora da morte, hesitou em lhe estender a mão.
+— Meu amor, você está viva — Timur soluçou, um som oco. — O doador de ontem à noite... um milagre. Eu fiquei tão apavorado, Bahar. Eu teria dado minha própria vida para te salvar se eu pudesse, você sabe disso.
 
-O silêncio do quarto foi rompido pelo leve ranger da porta. Timur entrou, o jaleco branco sempre impecável agora apenas ligeiramente amassado, os cabelos escovados para trás, o rosto adotando a máscara perfeita do marido aliviado e preocupado.
+A mentira flutuou pelo quarto como fumaça, sufocante, densa, pior que o cheiro de morte e sangue que ela conhecia tão bem daqueles ambientes. O bipe da máquina acelerou minimamente. 102 batimentos por minuto. 108.
 
-— Querida. Você acordou. — A voz dele era suave, contida, como quem fala com uma paciente fragilizada no round matinal. Ele se aproximou, e o leve aroma de seu perfume caro – amadeirado e cítrico – invadiu o ar, anulando temporariamente o cheiro de antisséptico. Ele pousou a mão sobre o lençol, perto do braço dela, mas sem tocá-la diretamente.
+Bahar não conseguia mover muito mais do que os olhos, e o peso da morfina ainda puxava seu cérebro para baixo. Mas, enquanto ela olhava para as lágrimas limpas no rosto de seu marido, algo se partiu no seu interior com a precisão de um golpe de bisturi bem executado. Não foi uma fratura barulhenta, nem desesperada. Foi limpa. Uma ressecção cirúrgica de tudo o que fora seu mundo nas últimas duas décadas.
 
-— Oi, Timur. — A voz de Bahar não tremeu. Para sua própria surpresa, o medo e a subserviência crônica que geralmente acompanhavam seu tom ao falar com o marido haviam desaparecido. No lugar disso, havia um cansaço denso e gelado.
+Ela focou o olhar cravado no rosto patético do marido que mentira para não ter que doar, apertando os dedos frios na maca e desviou seus olhos para os de Evren, o velho mentor ranzinza que a fitava do outro lado da cama, avaliando o pulso e, de algum modo silencioso, compreendendo toda a farsa do teatro à sua frente.
 
-— Nós ficamos com tanto medo... — ele começou, o tom treinado de empatia profissional. — Foi um milagre.
+*Eu vou voltar.*
 
-— Sim — Bahar murmurou, os olhos fixos nos de Timur. — Um milagre anônimo.
+A promessa não cruzou seus lábios secos e machucados pelos tubos, mas ecoou na caixa torácica como um trovão silencioso e surdo.
 
-Ela viu o leve, quase imperceptível, tensionamento do maxilar de Timur. Ele sabia que ela sabia? E mais importante: ele se importava?
-
-Timur pigarreou, a máscara de marido dedicado sofrendo uma fissura milimétrica antes de se recompor. — O importante é que você vai ficar boa. Voltar para casa. Voltar para a nossa vida.
-
-Bahar desviou o olhar para o monitor, ouvindo o próprio batimento cardíaco preencher o silêncio pesado. Voltar para casa. Voltar para *a nossa vida*. Fazer os jantares, esperar pelas longas noitadas de plantão (ou o que quer que ele fizesse quando não voltava). Ser a sombra confortável que sustentava o brilho dele.
-
-A dor na incisão da barriga pulsou forte, uma queimação latejante que a lembrou do limite estreito entre a vida e a morte, um abismo no qual ela quase caiu sozinha. Ela apertou os dedos trêmulos contra o lençol até os nós das mãos ficarem brancos.
-
-— Eu não vou voltar, Timur — ela disse, a voz num sussurro cortante.
-
-O marido franziu o cenho, a expressão adotando um ar de complacência condescendente, pronto para medicar a confusão mental da esposa. — Bahar, é a sedação, é o trauma... Você precisa de descanso.
-
-— Eu nunca estive tão lúcida — ela rebateu, virando o rosto lentamente de volta para ele, o olhar cravando-se nos olhos esquivos do marido com a precisão de um bisturi abrindo uma ferida antiga. — Eu estou viva. E a partir de amanhã, essa vida... ela é *minha*.
+*Eu vou tomar minha vida de volta.*
