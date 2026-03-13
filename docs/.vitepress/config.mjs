@@ -11,14 +11,20 @@ export default defineConfig({
         text: 'Capítulos',
         items: [
           { text: 'Capítulo 1', link: '/capitulos/capitulo-01' },
-          { text: 'Capítulo 2', link: '/capitulo-02' }
+          { text: 'Capítulo 2', link: '/capitulos/capitulo-02' },
+          { text: 'Capítulo 3', link: '/capitulos/capitulo-03' },
+          { text: 'Capítulo 4', link: '/capitulos/capitulo-04' },
+          { text: 'Capítulo 5', link: '/capitulos/capitulo-05' }
         ]
       },
       {
         text: 'Análises',
         items: [
           { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
-          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' }
+          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' },
+          { text: 'Análise Capítulo 3', link: '/analises/capitulo-03-analise' },
+          { text: 'Análise Capítulo 4', link: '/analises/capitulo-04-analise' },
+          { text: 'Análise Capítulo 5', link: '/analises/capitulo-05-analise' }
         ]
       }
     ],
@@ -33,14 +39,20 @@ export default defineConfig({
         text: 'Capítulos',
         items: [
           { text: 'Capítulo 1: O Peso da Própria Pele', link: '/capitulos/capitulo-01' },
-          { text: 'Capítulo 2', link: '/capitulo-02' }
+          { text: 'Capítulo 2', link: '/capitulos/capitulo-02' },
+          { text: 'Capítulo 3', link: '/capitulos/capitulo-03' },
+          { text: 'Capítulo 4: O Peso do Pó e do Passado', link: '/capitulos/capitulo-04' },
+          { text: 'Capítulo 5: A Sala de Espera', link: '/capitulos/capitulo-05' }
         ]
       },
       {
         text: 'Análises',
         items: [
           { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
-          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' }
+          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' },
+          { text: 'Análise Capítulo 3', link: '/analises/capitulo-03-analise' },
+          { text: 'Análise Capítulo 4', link: '/analises/capitulo-04-analise' },
+          { text: 'Análise Capítulo 5', link: '/analises/capitulo-05-analise' }
         ]
       }
     ]
