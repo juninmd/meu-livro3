@@ -2,7 +2,7 @@
 Título: "O Cheiro de Antisséptico e Café Frio"
 Data In-Game: "23 de Setembro, 06:15"
 Localização: "Cozinha da Família Yavuz / Vestiário e Corredores do Hospital Fundação Peran"
-Personagens Presentes: "Bahar Yavuz, Umay Yavuz, Aziz Yavuz, Evren Yilmaz"
+Personagens Presentes: "Bahar Yavuz, Aziz Yavuz, Evren Yilmaz"
 ---
 
 # Capítulo 7: O Cheiro de Antisséptico e Café Frio
