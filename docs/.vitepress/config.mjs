@@ -16,7 +16,7 @@ export default defineConfig({
           { text: 'Capítulo 4', link: '/capitulos/capitulo-04' },
           { text: 'Capítulo 5', link: '/capitulos/capitulo-05' },
           { text: 'Capítulo 6', link: '/capitulos/capitulo-06' },
-          { text: 'Capítulo 7', link: '/capitulos/capitulo-07' }
+          { text: 'Capítulo 7', link: '/capitulos/capitulo-07' },
         ]
       },
       {
