@@ -21,7 +21,7 @@ Bahar levantou-se, alisando a blusa suja, recusando-se a baixar os olhos. O cans
 
 — Testes? — Rengin soltou uma risada curta, sem humor. — Eu não testo residentes do primeiro ano. Eu os avalio. E pelo que ouvi, você causou um motim no centro cirúrgico. Roubou equipamento, desrespeitou o chefe da cirurgia e escondeu-se atrás de Evren Yilmaz como uma criança assustada.
 
-— Eu diagnostiquei um tamponamento cardíaco que a sua equipe estava negligenciando — Bahar respondeu, a voz ganhando firmeza, cada palavra um pequeno golpe. — Eu fiz o que precisava ser feito. E se você estivesse mais preocupada com os pacientes e menos com as minhas falhas... ou com o meu marido... talvez aquele homem não quase tivesse morrido.
+— Eu diagnostiquei um tamponamento cardíaco que a sua equipe estava negligenciando — Bahar respondeu, a voz ganhando firmeza, cada palavra um pequeno golpe. — Eu fiz o que precisava ser feito. E se você estivesse mais preocupada com os pacientes e menos com as minhas falhas... ou com o meu marido... talvez aquele homem não tivesse quase morrido.
 
 O silêncio que se seguiu foi espesso, elétrico. Os olhos de Rengin se estreitaram, a fachada de superioridade trincando por uma fração de segundo. Ela deu um passo à frente, mas parou. A menção direta a Timur no ambiente profissional, sem rodeios, era um território perigoso.
 
