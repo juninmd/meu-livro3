@@ -4,7 +4,7 @@
 **Nota Geral: 8.5/10**
 
 ### Ritmo (Pacing)
-O capítulo apresenta uma transição orgânica da alta tensão do clímax no bloco cirúrgico (do capítulo anterior) para o impacto emocional (aftermath) da ação de Bahar. O ritmo diminui propositalmente ao transportá-la do hospital estéril para o ambiente doméstico sufocante, permitindo uma respiração narrativa onde as consequências começam a ser sentidas. A divisão do tempo entre a breve e venenosa interação com Rengin no vestiário e a cena íntima, vulnerável e reveladora com Umay na cozinha funciona muito bem para manter a energia da história alta através de conflitos de natureza diferente (profissional/rivalidade e familiar/maternal).
+O capítulo apresenta uma transição orgânica da alta tensão do clímax no bloco cirúrgico (do capítulo anterior) para o impacto emocional (rescaldo) da ação de Bahar. O ritmo diminui propositalmente ao transportá-la do hospital estéril para o ambiente doméstico sufocante, permitindo uma respiração narrativa onde as consequências começam a ser sentidas. A divisão do tempo entre a breve e venenosa interação com Rengin no vestiário e a cena íntima, vulnerável e reveladora com Umay na cozinha funciona muito bem para manter a energia da história alta através de conflitos de natureza diferente (profissional/rivalidade e familiar/maternal).
 
 ### Diálogos
 Os diálogos capturaram as entrelinhas e a dinâmica dos personagens com precisão:
@@ -23,6 +23,6 @@ A mudança atmosférica é o ponto forte do capítulo. O início foca nos aspect
 **Pontos Fracos:**
 *   A transição do hospital para casa no ônibus foi muito rápida e um pouco "borrada". Poderia ter sido explorada brevemente uma cena de reflexão de Bahar olhando para a cidade à noite, embora a necessidade de economia de palavras (limite de 150 linhas) e foco nas cenas centrais tenha exigido essa aceleração narrativa.
 
-### Sanity Check (Auditoria de Coerência)
+### Verificação de Coerência (Auditoria de Coerência)
 *   **As atitudes dos personagens neste capítulo condizem com o trauma ou histórico estabelecido anteriormente?** Sim. Bahar mantém a postura resoluta ganha na epifania pós-cirurgia, mas não deixa de sentir a culpa visceral imposta por 20 anos de anulação no papel de mãe/esposa. Rengin mantém seu elitismo. Timur é consistentemente pintado (nas falas) como controlador.
 *   **O resumo da lore foi atualizado com as novas descobertas médicas ou revelações familiares?** Não houve grandes revelações da lore, mas o arco de Umay (sua resistência em ser médica e a repressão artística do pai) foi ativamente desenvolvido e integrado ao apoio de Bahar, reforçando a "Bíblia da História".
