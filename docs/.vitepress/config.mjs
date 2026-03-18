@@ -19,6 +19,7 @@ export default defineConfig({
           { text: 'Capítulo 7', link: '/capitulos/capitulo-07' },
           { text: 'Capítulo 8', link: '/capitulos/capitulo-08' },
           { text: 'Capítulo 9', link: '/capitulos/capitulo-09' },
+          { text: 'Capítulo 10', link: '/capitulos/capitulo-10' },
         ]
       },
       {
@@ -32,7 +33,8 @@ export default defineConfig({
           { text: 'Análise Capítulo 6', link: '/analises/capitulo-06-analise' },
           { text: 'Análise Capítulo 7', link: '/analises/capitulo-07-analise' },
           { text: 'Análise Capítulo 8', link: '/analises/capitulo-08-analise' },
-          { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' }
+          { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' },
+          { text: 'Análise Capítulo 10', link: '/analises/capitulo-10-analise' }
         ]
       }
     ],
@@ -54,7 +56,8 @@ export default defineConfig({
           { text: 'Capítulo 6: O Conselho Diretor', link: '/capitulos/capitulo-06' },
           { text: 'Capítulo 7: O Cheiro de Antisséptico e Café Frio', link: '/capitulos/capitulo-07' },
           { text: 'Capítulo 8: O Peso de um Segundo', link: '/capitulos/capitulo-08' },
-          { text: 'Capítulo 9: O Peso do Bisturi', link: '/capitulos/capitulo-09' }
+          { text: 'Capítulo 9: O Peso do Bisturi', link: '/capitulos/capitulo-09' },
+          { text: 'Capítulo 10: O Sangue Debaixo das Unhas', link: '/capitulos/capitulo-10' }
         ]
       },
       {
@@ -68,7 +71,8 @@ export default defineConfig({
           { text: 'Análise Capítulo 6', link: '/analises/capitulo-06-analise' },
           { text: 'Análise Capítulo 7', link: '/analises/capitulo-07-analise' },
           { text: 'Análise Capítulo 8', link: '/analises/capitulo-08-analise' },
-          { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' }
+          { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' },
+          { text: 'Análise Capítulo 10', link: '/analises/capitulo-10-analise' }
         ]
       }
     ]
