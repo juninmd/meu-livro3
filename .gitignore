@@ -5,3 +5,5 @@ dist-ssr
 *.local
 .env
 .env.*
+docs/.vitepress/cache/
+docs_dev.log
