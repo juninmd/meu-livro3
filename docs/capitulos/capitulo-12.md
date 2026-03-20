@@ -35,7 +35,7 @@ Evren Yilmaz entrou no boxe. Ele carregava um tablet debaixo do braço e olhava 
 
 — Dr. Yilmaz — Rengin endireitou a postura, o tom de voz mudando sutilmente de ataque para uma neutralidade cautelosa. — Não sabia que estava responsável pela UTI hoje.
 
-— E não estou. Mas estou responsável pelo leito 4 — Evren caminhou até Bahar e pegou a prancheta que ela acabara de pendurar. Ele revisou as anotações rapidamente. — E, pelo visto, a Dra. Yavuz aqui fez um trabalho excelente estabilizando a pressão do paciente. Diferente de alguns residentes que preferem fofocar no refeitório.
+— E não estou. Mas estou responsável pelo leito 4 — Evren caminhou até Bahar e pegou a prancheta que ela acabara de pendurar. Ele revisou as anotações rapidamente. — E, pelo visto, a Dra. Yavuz aqui fez um trabalho excelente estabilizando a pressão do paciente. Diferentemente de alguns residentes que preferem fofocar no refeitório.
 
 Ele olhou diretamente para Rengin. A tensão no ar era quase palpável, como eletricidade estática antes de uma tempestade.
 
