@@ -1,8 +1,8 @@
 ---
-Título: O Peso da Própria Pele
-Data In-Game: 14 de Março, 2024
-Localização: UTI, Hospital Fundação Peran
-Personagens Presentes: Bahar Yavuz, Timur Yavuz, Dr. Evren
+titulo: O Peso da Própria Pele
+data_in_game: 14 de Março, 2024
+localizacao: UTI, Hospital Fundação Peran
+personagens: [Bahar Yavuz, Timur Yavuz, Dr. Evren]
 ---
 
 # Capítulo 1: O Peso da Própria Pele
