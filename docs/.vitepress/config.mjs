@@ -21,6 +21,7 @@ export default defineConfig({
           { text: 'Capítulo 9', link: '/capitulos/capitulo-09' },
           { text: 'Capítulo 10', link: '/capitulos/capitulo-10' },
           { text: 'Capítulo 11', link: '/capitulos/capitulo-11' },
+          { text: 'Capítulo 12', link: '/capitulos/capitulo-12' },
         ]
       },
       {
@@ -36,7 +37,8 @@ export default defineConfig({
           { text: 'Análise Capítulo 8', link: '/analises/capitulo-08-analise' },
           { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' },
           { text: 'Análise Capítulo 10', link: '/analises/capitulo-10-analise' },
-          { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' }
+          { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' },
+          { text: 'Análise Capítulo 12', link: '/analises/capitulo-12-analise' }
         ]
       }
     ],
@@ -60,7 +62,8 @@ export default defineConfig({
           { text: 'Capítulo 8: O Peso de um Segundo', link: '/capitulos/capitulo-08' },
           { text: 'Capítulo 9: O Peso do Bisturi', link: '/capitulos/capitulo-09' },
           { text: 'Capítulo 10: O Sangue Debaixo das Unhas', link: '/capitulos/capitulo-10' },
-          { text: 'Capítulo 11: O Peso do Estetoscópio', link: '/capitulos/capitulo-11' }
+          { text: 'Capítulo 11: O Peso do Estetoscópio', link: '/capitulos/capitulo-11' },
+          { text: 'Capítulo 12: Ecos de uma Rescisão', link: '/capitulos/capitulo-12' }
         ]
       },
       {
@@ -76,7 +79,8 @@ export default defineConfig({
           { text: 'Análise Capítulo 8', link: '/analises/capitulo-08-analise' },
           { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' },
           { text: 'Análise Capítulo 10', link: '/analises/capitulo-10-analise' },
-          { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' }
+          { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' },
+          { text: 'Análise Capítulo 12', link: '/analises/capitulo-12-analise' }
         ]
       }
     ]
