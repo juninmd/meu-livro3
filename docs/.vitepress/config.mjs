@@ -1,5 +1,19 @@
 import { defineConfig } from 'vitepress'
 
+const analisesItems = [
+  { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
+  { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' },
+  { text: 'Análise Capítulo 3', link: '/analises/capitulo-03-analise' },
+  { text: 'Análise Capítulo 4', link: '/analises/capitulo-04-analise' },
+  { text: 'Análise Capítulo 5', link: '/analises/capitulo-05-analise' },
+  { text: 'Análise Capítulo 6', link: '/analises/capitulo-06-analise' },
+  { text: 'Análise Capítulo 7', link: '/analises/capitulo-07-analise' },
+  { text: 'Análise Capítulo 8', link: '/analises/capitulo-08-analise' },
+  { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' },
+  { text: 'Análise Capítulo 10', link: '/analises/capitulo-10-analise' },
+  { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' }
+]
+
 export default defineConfig({
   title: "Recomeço de Bahar",
   description: "Uma história sobre resiliência, relacionamentos complexos e recomeços.",
@@ -25,19 +39,7 @@ export default defineConfig({
       },
       {
         text: 'Análises',
-        items: [
-          { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
-          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' },
-          { text: 'Análise Capítulo 3', link: '/analises/capitulo-03-analise' },
-          { text: 'Análise Capítulo 4', link: '/analises/capitulo-04-analise' },
-          { text: 'Análise Capítulo 5', link: '/analises/capitulo-05-analise' },
-          { text: 'Análise Capítulo 6', link: '/analises/capitulo-06-analise' },
-          { text: 'Análise Capítulo 7', link: '/analises/capitulo-07-analise' },
-          { text: 'Análise Capítulo 8', link: '/analises/capitulo-08-analise' },
-          { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' },
-          { text: 'Análise Capítulo 10', link: '/analises/capitulo-10-analise' },
-          { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' }
-        ]
+        items: analisesItems
       }
     ],
     sidebar: [
@@ -65,19 +67,7 @@ export default defineConfig({
       },
       {
         text: 'Análises',
-        items: [
-          { text: 'Análise Capítulo 1', link: '/analises/capitulo-01-analise' },
-          { text: 'Análise Capítulo 2', link: '/analises/capitulo-02-analise' },
-          { text: 'Análise Capítulo 3', link: '/analises/capitulo-03-analise' },
-          { text: 'Análise Capítulo 4', link: '/analises/capitulo-04-analise' },
-          { text: 'Análise Capítulo 5', link: '/analises/capitulo-05-analise' },
-          { text: 'Análise Capítulo 6', link: '/analises/capitulo-06-analise' },
-          { text: 'Análise Capítulo 7', link: '/analises/capitulo-07-analise' },
-          { text: 'Análise Capítulo 8', link: '/analises/capitulo-08-analise' },
-          { text: 'Análise Capítulo 9', link: '/analises/capitulo-09-analise' },
-          { text: 'Análise Capítulo 10', link: '/analises/capitulo-10-analise' },
-          { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' }
-        ]
+        items: analisesItems
       }
     ]
   }
