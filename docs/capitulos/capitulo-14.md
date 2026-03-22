@@ -9,7 +9,7 @@ characters: ["Bahar Yavuz", "Umay Yavuz", "Timur Yavuz"]
 
 O vestiário feminino do terceiro andar cheirava a cloro barato e suor abafado. Bahar empurrou a porta com o ombro, os músculos das costas repuxando em protesto após quatro horas ininterruptas de tensão no pronto-socorro. Ela caminhou até a pia de cerâmica rachada e abriu a torneira no máximo. O som da água batendo no metal velho pareceu abafar o zumbido persistente em seus ouvidos.
 
-Mergulhou o rosto e as mãos enluvadas na água gelada. O choque térmico a fez prender a respiração, mas era necessário. Precisava limpar não apenas o resíduo imaginário de sangue sob as unhas, mas a adrenalina que ainda fazia seu coração bater num ritmo arrítmico.
+Arrancando as luvas com um gesto rápido, mergulhou o rosto e as mãos na água gelada. O choque térmico a fez prender a respiração, mas era necessário. Precisava limpar não apenas o resíduo imaginário de sangue sob as unhas, mas a adrenalina que ainda fazia seu coração bater num ritmo arrítmico.
 
 Ao erguer os olhos para o espelho manchado, não viu a dona de casa exausta que preparava o jantar pontualmente às dezenove horas. Viu uma médica. O olhar de Aziz na sala de trauma — o respeito recém-descoberto, a surpresa genuína — ainda ecoava em sua mente. Ela havia salvado uma vida. Com as próprias mãos. Não limpando uma casa, não polindo a imagem do marido, mas rasgando a carne para devolver o ar a um pulmão colapsado.
 
