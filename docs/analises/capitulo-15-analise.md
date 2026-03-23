@@ -1,4 +1,4 @@
-# Análise Crítica - Capítulo 15: O Peso de Um Fio de Sutura
+# Análise Crítica - Capítulo 15: O Peso de um Fio de Sutura
 
 **Autoavaliação Técnica: 9.0/10**
 
@@ -21,4 +21,4 @@ A atmosfera do centro cirúrgico é realista, invocando o "show, don't tell". O 
 
 ## Auditoria de Coerência (Sanity Check)
 *   **As atitudes dos personagens neste capítulo condizem com o trauma ou histórico estabelecido anteriormente?** Sim. O medo inicial de Bahar de errar reflete seus vinte anos afastada da prática. A atitude cortante mas justa de Evren condiz com sua descrição de "excêntrico e mentor implacável".
-*   **O resumo da lore foi atualizado com as novas descobertas médicas ou revelações familiares?** Não houveram mudanças profundas de Lore que exijam atualização da Bíblia; apenas a execução do arco de evolução de Bahar retomando sua profissão e validando a escolha do incidente incitante.
+*   **O resumo da lore foi atualizado com as novas descobertas médicas ou revelações familiares?** Não houve mudanças profundas de Lore que exijam atualização da Bíblia; apenas a execução do arco de evolução de Bahar retomando sua profissão e validando a escolha do incidente incitante.
