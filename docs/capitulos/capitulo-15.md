@@ -1,5 +1,5 @@
 ---
-Título: O Peso de Um Fio de Sutura
+Título: O Peso de um Fio de Sutura
 Data In-Game: 15 de Maio
 Localização: Hospital Fundação Peran, Centro Cirúrgico Sala 4
 Personagens Presentes: Bahar Yavuz, Evren Yilmaz, Equipe de Enfermagem
