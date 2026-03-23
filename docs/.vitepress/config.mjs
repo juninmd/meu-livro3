@@ -33,7 +33,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 12: Ecos de uma Rescisão', link: '/capitulos/capitulo-12' },
   { text: 'Capítulo 13: O Ritmo do Caos', link: '/capitulos/capitulo-13' },
   { text: 'Capítulo 14: O Som da Água Fria', link: '/capitulos/capitulo-14' },
-  { text: 'Capítulo 15: O Peso de Um Fio de Sutura', link: '/capitulos/capitulo-15' }
+  { text: 'Capítulo 15: O Peso de um Fio de Sutura', link: '/capitulos/capitulo-15' }
 ]
 
 const analisesItems = [
