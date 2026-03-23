@@ -14,7 +14,8 @@ const capitulosNavItems = [
   { text: 'Capítulo 11', link: '/capitulos/capitulo-11' },
   { text: 'Capítulo 12', link: '/capitulos/capitulo-12' },
   { text: 'Capítulo 13', link: '/capitulos/capitulo-13' },
-  { text: 'Capítulo 14', link: '/capitulos/capitulo-14' }
+  { text: 'Capítulo 14', link: '/capitulos/capitulo-14' },
+  { text: 'Capítulo 15', link: '/capitulos/capitulo-15' }
 ]
 
 const capitulosSidebarItems = [
@@ -31,7 +32,8 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 11: O Peso do Estetoscópio', link: '/capitulos/capitulo-11' },
   { text: 'Capítulo 12: Ecos de uma Rescisão', link: '/capitulos/capitulo-12' },
   { text: 'Capítulo 13: O Ritmo do Caos', link: '/capitulos/capitulo-13' },
-  { text: 'Capítulo 14: O Som da Água Fria', link: '/capitulos/capitulo-14' }
+  { text: 'Capítulo 14: O Som da Água Fria', link: '/capitulos/capitulo-14' },
+  { text: 'Capítulo 15: O Peso de Um Fio de Sutura', link: '/capitulos/capitulo-15' }
 ]
 
 const analisesItems = [
@@ -48,7 +50,8 @@ const analisesItems = [
   { text: 'Análise Capítulo 11', link: '/analises/capitulo-11-analise' },
   { text: 'Análise Capítulo 12', link: '/analises/capitulo-12-analise' },
   { text: 'Análise Capítulo 13', link: '/analises/capitulo-13-analise' },
-  { text: 'Análise Capítulo 14', link: '/analises/capitulo-14-analise' }
+  { text: 'Análise Capítulo 14', link: '/analises/capitulo-14-analise' },
+  { text: 'Análise Capítulo 15', link: '/analises/capitulo-15-analise' }
 ]
 
 export default defineConfig({
