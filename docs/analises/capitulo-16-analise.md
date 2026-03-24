@@ -15,7 +15,7 @@ A atmosfera do refeitório de hospital (luzes brancas, ambiente estéril, café 
 **Pontos Fortes:**
 - A evolução visível de Bahar, que não abaixa a cabeça perante provocações.
 - O estabelecimento de Rengin não apenas como uma antagonista unidimensional, mas alguém com suas próprias frustrações em relação a Timur.
-- Descrições sensoriais (a água gelada, a luz filtrada pelo pó, o barulho do salto de linóleo).
+- Descrições sensoriais (a água gelada, a luz filtrada pelo pó, o barulho do salto no linóleo).
 
 **Pontos Fracos:**
 - A transição da entrada de Timur poderia ter explorado ainda mais as reações microscópicas de Rengin, aprofundando a dinâmica do triângulo antes do diálogo começar.
