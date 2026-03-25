@@ -17,7 +17,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 14', link: '/capitulos/capitulo-14' },
   { text: 'Capítulo 15', link: '/capitulos/capitulo-15' },
   { text: 'Capítulo 16', link: '/capitulos/capitulo-16' },
-  { text: 'Capítulo 17', link: '/capitulos/capitulo-17' }
+  { text: 'Capítulo 17', link: '/capitulos/capitulo-17' },
 ]
 
 const capitulosSidebarItems = [
@@ -37,7 +37,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 14: O Som da Água Fria', link: '/capitulos/capitulo-14' },
   { text: 'Capítulo 15: O Peso de um Fio de Sutura', link: '/capitulos/capitulo-15' },
   { text: 'Capítulo 16: O Reflexo Fraturado', link: '/capitulos/capitulo-16' },
-  { text: 'Capítulo 17: O Primeiro Plantão Noturno', link: '/capitulos/capitulo-17' }
+  { text: 'Capítulo 17: O Primeiro Plantão Noturno', link: '/capitulos/capitulo-17' },
 ]
 
 const analisesItems = [
@@ -57,7 +57,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 14', link: '/analises/capitulo-14-analise' },
   { text: 'Análise Capítulo 15', link: '/analises/capitulo-15-analise' },
   { text: 'Análise Capítulo 16', link: '/analises/capitulo-16-analise' },
-  { text: 'Análise Capítulo 17', link: '/analises/capitulo-17-analise' }
+  { text: 'Análise Capítulo 17', link: '/analises/capitulo-17-analise' },
 ]
 
 export default defineConfig({
