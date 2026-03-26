@@ -18,6 +18,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 15', link: '/capitulos/capitulo-15' },
   { text: 'Capítulo 16', link: '/capitulos/capitulo-16' },
   { text: 'Capítulo 17', link: '/capitulos/capitulo-17' },
+  { text: 'Capítulo 18', link: '/capitulos/capitulo-18' },
 ]
 
 const capitulosSidebarItems = [
@@ -38,6 +39,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 15: O Peso de um Fio de Sutura', link: '/capitulos/capitulo-15' },
   { text: 'Capítulo 16: O Reflexo Fraturado', link: '/capitulos/capitulo-16' },
   { text: 'Capítulo 17: O Primeiro Plantão Noturno', link: '/capitulos/capitulo-17' },
+  { text: 'Capítulo 18: O Gosto Amargo do Café Preto', link: '/capitulos/capitulo-18' },
 ]
 
 const analisesItems = [
@@ -58,6 +60,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 15', link: '/analises/capitulo-15-analise' },
   { text: 'Análise Capítulo 16', link: '/analises/capitulo-16-analise' },
   { text: 'Análise Capítulo 17', link: '/analises/capitulo-17-analise' },
+  { text: 'Análise Capítulo 18', link: '/analises/capitulo-18-analise' },
 ]
 
 export default defineConfig({
