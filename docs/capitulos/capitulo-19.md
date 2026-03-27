@@ -1,6 +1,6 @@
 ---
 Título: "O Silêncio da Clínica"
-Data In-Game: "14 de Setembro, 08:30"
+Data In-Game: "18 de Maio, 08:30"
 Localização: "Clínica Geral, Hospital Fundação Peran"
 Personagens Presentes: "Bahar Yavuz, Aziz Yavuz, Evren Yilmaz, Paciente (Senhora Demir)"
 ---
