@@ -20,6 +20,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 17', link: '/capitulos/capitulo-17' },
   { text: 'Capítulo 18', link: '/capitulos/capitulo-18' },
   { text: 'Capítulo 19', link: '/capitulos/capitulo-19' },
+  { text: 'Capítulo 20', link: '/capitulos/capitulo-20' },
 ]
 
 const capitulosSidebarItems = [
@@ -42,6 +43,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 17: O Primeiro Plantão Noturno', link: '/capitulos/capitulo-17' },
   { text: 'Capítulo 18: O Gosto Amargo do Café Preto', link: '/capitulos/capitulo-18' },
   { text: 'Capítulo 19: O Silêncio da Clínica', link: '/capitulos/capitulo-19' },
+  { text: 'Capítulo 20: O Peso da Própria Voz', link: '/capitulos/capitulo-20' },
 ]
 
 const analisesItems = [
@@ -64,6 +66,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 17', link: '/analises/capitulo-17-analise' },
   { text: 'Análise Capítulo 18', link: '/analises/capitulo-18-analise' },
   { text: 'Análise Capítulo 19', link: '/analises/capitulo-19-analise' },
+  { text: 'Análise Capítulo 20', link: '/analises/capitulo-20-analise' },
 ]
 
 export default defineConfig({
