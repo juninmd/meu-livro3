@@ -35,7 +35,7 @@ Antes que Bahar pudesse responder, uma voz grave cortou o ar esterilizado.
 
 O Dr. Evren Yilmaz aproximou-se do leito. Ele não usava jaleco; apenas sua costumeira camisa escura e o olhar afiado que parecia dissecar a alma de quem o encarava. Ele não olhou para o monitor. Foi direto ao paciente, tocando-lhe o pulso e, em seguida, observando as unhas que Bahar havia apontado.
 
-— A Dra. Yavuz tem razão, — Evren disse, a voz subitamente baixa e perigosa. — Cianose periférica precoce. Queda no débito urinário. Ele não está ansioso, ele está chocando. Há um sangramento interno silencioso. O corpo está desviando o sangue para os órgãos vitais, por isso os dedos roxos e o monitor ainda mostra saturação razoável no tronco.
+— A Dra. Yavuz tem razão, — Evren disse, a voz subitamente baixa e perigosa. — Cianose periférica precoce. Queda no débito urinário. Ele não está ansioso, ele está entrando em choque. Há um sangramento interno silencioso. O corpo está desviando o sangue para os órgãos vitais, por isso os dedos roxos e o monitor ainda mostra saturação razoável no tronco.
 
 A cor sumiu do rosto de Aziz. O tablet pareceu pesar toneladas em suas mãos.
 
