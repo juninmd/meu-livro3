@@ -17,11 +17,11 @@ Bahar observou o filho. A exaustão dele era uma versão mais jovem da sua próp
 
 Aziz parou de esfregar o rosto. Ele ergueu os olhos, e o que Bahar viu ali não foi a raiva habitual, mas uma frustração crua, quase infantil.
 
-— Sim. O Dr. Evren conseguiu estancar o sangramento na artéria mesentérica, — ele murmurou, a voz áspera. Ele desviou o olhar para a máquina de café. — Você estava certa. Eu passei reto por um sinal vital.
+— Sim. O Dr. Evren conseguiu estancar o sangramento na artéria mesentérica — ele murmurou, a voz áspera. Ele desviou o olhar para a máquina de café. — Você estava certa. Eu passei reto por um sinal vital.
 
 Bahar apertou a caneca de papel, sentindo o calor através do papelão fino. Ela queria abraçá-lo, confortar o menino que chorava quando esfolava o joelho, mas o jovem médico à sua frente não permitiria.
 
-— A tela nos treina a confiar nela, Aziz, — ela disse, mantendo um tom profissional, de colega para colega. — E a pressa... bem, todos nós sofremos com ela. Você não foi o único a olhar apenas os números. O importante é que a equipe agiu.
+— A tela nos treina a confiar nela, Aziz — ela disse, mantendo um tom profissional, de colega para colega. — E a pressa... bem, todos nós sofremos com ela. Você não foi o único a olhar apenas os números. O importante é que a equipe agiu.
 
 — Não me trate com condescendência, mãe, — ele retrucou, o tom defensivo retornando, embora mais fraco do que de costume. — Foi um erro de iniciante, e eu o cometi na frente de um dos cirurgiões mais exigentes do hospital. E pior... você foi quem percebeu.
 
@@ -45,7 +45,7 @@ Bahar sentiu o sangue ferver. O café em suas mãos balançou. O reconhecimento 
 
 Ela pousou a caneca no balcão com um estalo deliberado.
 
-— Não foi intuição, Timur, — ela disse, a voz perigosamente baixa, nivelada e firme. Ela não desviou o olhar, sustentando os olhos escuros do marido. — Foi observação clínica rigorosa. Cianose de extremidades. Baixa perfusão. Um sinal que estava ali, claro como o dia, se você não estivesse tão focado em ser... a estrela da própria narrativa para ver.
+— Não foi intuição, Timur — ela disse, a voz perigosamente baixa, nivelada e firme. Ela não desviou o olhar, sustentando os olhos escuros do marido. — Foi observação clínica rigorosa. Cianose de extremidades. Baixa perfusão. Um sinal que estava ali, claro como o dia, se você não estivesse tão focado em ser... a estrela da própria narrativa para ver.
 
 Timur estreitou os olhos, o sorriso evaporando. A resposta insolente não se encaixava na imagem submissa que ele esperava.
 
