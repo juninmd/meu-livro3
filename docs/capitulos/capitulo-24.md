@@ -1,66 +1,46 @@
 ---
-Título: O Peso da Primeira Conquista
-Data In-Game: 2024-03-12
-Localização: Hospital Fundação Peran, Sala de Descanso / Corredores
-Personagens Presentes: Bahar Yavuz, Aziz Yavuz, Timur Yavuz
+title: 'Capítulo 24: O Eco na Sala de Descanso'
+data_in_game: 'Quinta-feira, 10h15'
+localizacao: 'Hospital Fundação Peran - Sala de Descanso dos Médicos'
+personagens: ['Bahar', 'Timur', 'Rengin']
 ---
 
-# Capítulo 24: O Eco da Confirmação
+# Capítulo 24: O Eco na Sala de Descanso
 
-A sala de descanso dos residentes cheirava a café velho e desinfetante cítrico, uma combinação que costumava revirar o estômago de Bahar em seus primeiros dias, mas que agora parecia o perfume da sua nova realidade. Ela se encostou no balcão de fórmica, as mãos ainda trêmulas após a adrenalina da UTI, e serviu-se do líquido escuro e amargo do fundo da jarra térmica.
+O zumbido da máquina de café na sala de descanso dos médicos parecia amplificado na cabeça de Bahar. Ela apertava o copo de papel barato, o calor irradiando pelas palmas das mãos, enquanto o cheiro de pó queimado e desinfetante hospitalar empesteava o ambiente pequeno e sem janelas. Suas pernas ainda tremiam levemente. A adrenalina do episódio na UTI demorava a baixar, deixando para trás uma tensão metálica na nuca.
 
-A porta abriu com um estalo seco. Aziz entrou, o jaleco um pouco amassado, a prancheta debaixo do braço. Ele não olhou para ela de imediato. Caminhou até as poltronas gastas e jogou-se em uma delas, esfregando o rosto com as mãos.
+A porta se abriu de supetão. Timur entrou, a expressão cuidadosamente neutra que ela conhecia tão bem — o rosto que ele usava antes de tentar desmontá-la.
 
-Bahar observou o filho. A exaustão dele era uma versão mais jovem da sua própria. Ela deu um passo hesitante.
+— Aquilo foi imprudente, Bahar — ele começou, sem sequer olhar para ela, indo direto para a pia para lavar as mãos já limpas. — Assumir o controle de um paciente do Evren na UTI? Passar por cima do diagnóstico inicial do residente? Você poderia ter causado um pânico desnecessário.
 
-— O paciente... Sr. Yilmaz. Ele estabilizou? — ela perguntou, a voz suave, tentando não soar vitoriosa.
+Bahar apertou o copo de café um pouco mais. O papel cedeu sob os dedos.
 
-Aziz parou de esfregar o rosto. Ele ergueu os olhos, e o que Bahar viu ali não foi a raiva habitual, mas uma frustração crua, quase infantil.
+— O residente era o seu filho, Timur — a voz dela soou baixa, mas não vacilou. — E o paciente estava entrando em choque. Eu não causei pânico. Eu evitei uma parada cardíaca.
 
-— Sim. O Dr. Evren conseguiu estancar o sangramento na artéria mesentérica — ele murmurou, a voz áspera. Ele desviou o olhar para a máquina de café. — Você estava certa. Eu passei reto por um sinal vital.
+Timur bufou, secando as mãos com duas toalhas de papel puxadas agressivamente do suporte.
 
-Bahar apertou a caneca de papel, sentindo o calor através do papelão fino. Ela queria abraçá-lo, confortar o menino que chorava quando esfolava o joelho, mas o jovem médico à sua frente não permitiria.
+— Sorte de principiante. O instinto maternal falando mais alto que o treinamento médico. Não confunda vinte anos cuidando de febres infantis com a intuição de um clínico geral.
 
-— A tela nos treina a confiar nela, Aziz — ela disse, mantendo um tom profissional, de colega para colega. — E a pressa... bem, todos nós sofremos com ela. Você não foi o único a olhar apenas os números. O importante é que a equipe agiu.
+Antes que ela pudesse responder, a porta se abriu novamente. Rengin parou na soleira, segurando uma prancheta. Seus olhos passaram de Timur para Bahar. O clima na sala era tão denso que a própria Rengin pareceu hesitar. Ela pigarreou, entrando e pegando um copo de água do bebedouro.
 
-— Não me trate com condescendência, mãe, — ele retrucou, o tom defensivo retornando, embora mais fraco do que de costume. — Foi um erro de iniciante, e eu o cometi na frente de um dos cirurgiões mais exigentes do hospital. E pior... você foi quem percebeu.
+— Ouvi o que aconteceu na UTI — disse Rengin, a voz fria e profissional. — A intervenção precoce nos fluidos e a mudança nos estabilizadores de pressão.
 
-A dor na voz dele picou o coração de Bahar. Ele ainda via o acerto dela como um demérito dele.
+Timur abriu um sorriso paternalista na direção de Rengin. — Exatamente, Dra. Rengin. Estava justamente explicando a Bahar que não podemos encorajar residentes a...
 
-— Eu sou uma médica neste hospital, Aziz, tanto quanto você. Eu apenas... observei, — ela ponderou, pesando as palavras. — Quando você passa vinte anos percebendo a febre dos seus filhos pela cor da bochecha antes mesmo do termômetro... seus olhos ficam treinados para os tons da pele. Não diminui seu conhecimento. Apenas... foca a atenção.
+— Foi um diagnóstico brilhante — interrompeu Rengin, olhando diretamente para Bahar. O olhar era indecifrável, misturando o desprezo habitual com um choque de respeito forçado. — Você viu os sinais periféricos que o residente negligenciou.
 
-Ele bufou uma meia risada, sacudindo a cabeça, mas o semblante estava menos tenso. Antes que pudesse responder, a porta abriu novamente.
+Timur parou, a toalha de papel amassada em sua mão. Ele olhou de Rengin para Bahar, a perplexidade quebrando a máscara de arrogância por um segundo.
 
-Timur preencheu o batente da porta, impecável em seu terno alinhado sob o jaleco branco, o cabelo prateado perfeitamente no lugar. Ele examinou a sala, seus olhos se fixando primeiro em Aziz e depois em Bahar, um sorriso estreito brincando nos lábios.
+— Desculpe? — Timur tentou recuperar o controle, rindo pelo nariz. — Você está validando a quebra de protocolo?
 
-— Ora, se não é a dupla dinâmica, — ele disse, a voz aveludada pingando com um tom que apenas os que convivem com ele reconhecem como desdém. Ele caminhou até o centro da sala. — Eu ouvi sobre o pequeno... drama na UTI.
+— Estou validando a vida de um paciente, Timur — Rengin retrucou, seca, antes de virar as costas para ele e sair. — Bom trabalho, Dra. Yavuz.
 
-Aziz se endireitou na cadeira, a tensão retornando aos seus ombros.
+O silêncio que se seguiu pareceu sugar o ar da sala. Timur jogou a toalha de papel na lixeira com força desnecessária, murmurou algo ininteligível sobre "insubordinação" e saiu atrás de Rengin.
 
-— Foi controlado, Dr. Timur, — Aziz respondeu, usando o tom formal que adotava com o pai no hospital.
+Bahar ficou sozinha, o café agora morno em suas mãos. Um sorriso quase imperceptível tocou seus lábios. Não era apenas Evren que estava começando a vê-la. Até seus inimigos não conseguiam mais negar o óbvio. O peso de suas próprias escolhas começava a dar lugar a algo novo. A força.
 
-— Sim, eu sei. Evren não perde a chance de bancar o herói, — Timur comentou, alisando o punho da camisa. — E me disseram que você, Bahar, deu o alerta. Um belo golpe de sorte. A intuição feminina ainda tem seu valor ocasional na medicina moderna, afinal.
-
-Bahar sentiu o sangue ferver. O café em suas mãos balançou. O reconhecimento tácito de Aziz fora frágil, um momento de verdadeira conexão, e Timur chegava para transformá-lo em pó. O "golpe de sorte". O termo a acertou como um tapa.
-
-Ela pousou a caneca no balcão com um estalo deliberado.
-
-— Não foi intuição, Timur — ela disse, a voz perigosamente baixa, nivelada e firme. Ela não desviou o olhar, sustentando os olhos escuros do marido. — Foi observação clínica rigorosa. Cianose de extremidades. Baixa perfusão. Um sinal que estava ali, claro como o dia, se você não estivesse tão focado em ser... a estrela da própria narrativa para ver.
-
-Timur estreitou os olhos, o sorriso evaporando. A resposta insolente não se encaixava na imagem submissa que ele esperava.
-
-— Tenha cuidado, Bahar. Um acerto não faz uma carreira, — ele sibilou, o tom descendo para uma ameaça velada. — Você ainda tem um longo caminho para provar que pertence a este lugar, não apenas como uma curiosidade passageira de Evren.
-
-— E eu o farei, — Bahar respondeu, cruzando os braços. A voz não tremeu. — Passo a passo. Sem depender da sorte de ninguém.
-
-Timur a encarou por um momento que pareceu elástico. Ele pareceu perceber que a presença de Aziz limitava sua retaliação. Com um movimento brusco, ele girou sobre os calcanhares.
-
-— Não deixem a papelada acumular, — ele disse para o nada em particular, antes de sair e fechar a porta com mais força do que o necessário.
-
-O silêncio desceu sobre a sala, pesado com a eletricidade da discussão. Bahar respirou fundo, o cheiro de café velho agora substituído por um estranho frescor de autonomia.
-
-Ela olhou para Aziz. O filho estava em silêncio, os olhos fixos na porta fechada, a expressão ilegível. Ele não havia defendido o pai. E, para Bahar, naquele dia exaustivo, aquilo bastava.
+Ela tomou um gole do café ruim, sentindo que era o melhor que havia provado em anos.
 
 <!-- Image Generation Prompt:
-"Cinematic, photorealistic medium shot inside a dimly lit, slightly worn hospital breakroom. Bahar, a 40-year-old Turkish female doctor in light blue scrubs, stands by a counter with a paper coffee cup, looking resilient and confident. Across from her, Timur, a distinguished older Turkish male doctor in a tailored suit under a pristine white coat, glares at her with a tight, displeased expression. Between them, Aziz, a young Turkish male resident, sits slumped slightly in a chair, observing the tension between his parents. The room has fluorescent lighting and a tired atmosphere. Contemporary realistic medical drama style, high detail, 35mm lens."
+"Cinematic, photorealistic medium shot inside a small, slightly cramped hospital break room with fluorescent lighting. Bahar, a 40-year-old Turkish female doctor wearing blue scrubs, holds a paper coffee cup, standing near a coffee machine. She has a subtle, empowered smile. Timur, an arrogant-looking Turkish male surgeon in a white coat, is walking out the door in frustration. Rengin, an elegant Turkish female doctor with an indecipherable expression, has just exited, her shoulder visible in the doorway. The atmosphere feels tense yet triumphant for Bahar. Contemporary realistic medical drama style, 35mm lens, high detail."
 -->

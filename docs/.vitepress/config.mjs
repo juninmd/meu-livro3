@@ -24,6 +24,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 21', link: '/capitulos/capitulo-21' },
   { text: 'Capítulo 22', link: '/capitulos/capitulo-22' },
   { text: 'Capítulo 23', link: '/capitulos/capitulo-23' },
+  { text: 'Capítulo 24', link: '/capitulos/capitulo-24' },
 ]
 
 const capitulosSidebarItems = [
@@ -50,6 +51,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 21: O Peso da Primeira Conquista', link: '/capitulos/capitulo-21' },
   { text: 'Capítulo 22: As Cores Fora da Linha', link: '/capitulos/capitulo-22' },
   { text: 'Capítulo 23: O Peso da Observação', link: '/capitulos/capitulo-23' },
+  { text: 'Capítulo 24: O Eco na Sala de Descanso', link: '/capitulos/capitulo-24' },
 ]
 
 const analisesItems = [
@@ -76,6 +78,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 21', link: '/analises/capitulo-21-analise' },
   { text: 'Análise Capítulo 22', link: '/analises/capitulo-22-analise' },
   { text: 'Análise Capítulo 23', link: '/analises/capitulo-23-analise' },
+  { text: 'Análise Capítulo 24', link: '/analises/capitulo-24-analise' },
 ]
 
 export default defineConfig({
