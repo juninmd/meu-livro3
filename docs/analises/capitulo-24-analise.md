@@ -12,7 +12,7 @@ Os diálogos são cortantes e ricos em subtexto. A tentativa de Timur de desqual
 A atmosfera claustrofóbica da pequena sala de descanso (zumbido da máquina, cheiro de pó queimado e desinfetante) espelha a pressão inicial de Bahar e o peso da presença de Timur. A catarse sutil no final, representada pelo gole de "café ruim", traduz com perfeição o sentimento de empoderamento de Bahar de uma forma muito verossímil e sensorial.
 
 ## Pontos Fortes e Fracos
-- **Pontos Fortes:** A virada inesperada de Rengin defendendo a competência médica de Bahar é o ponto alto do capítulo. Isso eleva Rengin de uma mera "amante vilã" a uma profissional complexa que valoriza a medicina acima das disputas pessoais. O conflito é mostrado, não contado, através de ações como Timur rasgando papel-toalha.
+- **Pontos Fortes:** A virada inesperada de Rengin defendendo a competência médica de Bahar é o ponto alto do capítulo. Isso eleva Rengin de uma mera "amante vilã" a uma profissional complexa que valoriza a medicina acima das disputas pessoais. O conflito é mostrado, não contado, através de ações como Timur amassando papel-toalha.
 - **Pontos Fracos:** A ausência física de Evren, apesar de justificada para focar na dinâmica entre Bahar, Timur e Rengin, deixa a promessa do capítulo anterior levemente em suspenso, embora o foco tenha sido bem redirecionado.
 
 ## Auditoria de Coerência (Sanity Check)
