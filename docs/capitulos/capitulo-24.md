@@ -2,12 +2,12 @@
 title: 'Capítulo 24: O Eco na Sala de Descanso'
 data_in_game: 'Quinta-feira, 10h15'
 localizacao: 'Hospital Fundação Peran - Sala de Descanso dos Médicos'
-personagens: ['Bahar', 'Timur', 'Rengin', 'Evren']
+personagens: ['Bahar', 'Timur', 'Rengin']
 ---
 
 # Capítulo 24: O Eco na Sala de Descanso
 
-O zumbido da máquina de café na sala de descanso dos médicos parecia amplificado na cabeça de Bahar. Ela apertava o copo de papel barato, o calor irradiando pelas palmas das mãos, enquanto o cheiro de pó queimado e desinfetante hospitalar empesteava o ar pequeno e sem janelas. Suas pernas ainda tremiam levemente. A adrenalina do episódio na UTI demorava a baixar, deixando para trás uma tensão metálica na nuca.
+O zumbido da máquina de café na sala de descanso dos médicos parecia amplificado na cabeça de Bahar. Ela apertava o copo de papel barato, o calor irradiando pelas palmas das mãos, enquanto o cheiro de pó queimado e desinfetante hospitalar empesteava o ambiente pequeno e sem janelas. Suas pernas ainda tremiam levemente. A adrenalina do episódio na UTI demorava a baixar, deixando para trás uma tensão metálica na nuca.
 
 A porta se abriu de supetão. Timur entrou, a expressão cuidadosamente neutra que ela conhecia tão bem — o rosto que ele usava antes de tentar desmontá-la.
 
@@ -21,7 +21,7 @@ Timur bufou, secando as mãos com duas toalhas de papel puxadas agressivamente d
 
 — Sorte de principiante. O instinto maternal falando mais alto que o treinamento médico. Não confunda vinte anos cuidando de febres infantis com a intuição de um clínico geral.
 
-Antes que ela pudesse responder, a porta abriu novamente. Rengin parou na soleira, segurando uma prancheta. Seus olhos passaram de Timur para Bahar. O clima na sala era tão denso que a própria Rengin pareceu hesitar. Ela pigarreou, entrando e pegando um copo de água do bebedouro.
+Antes que ela pudesse responder, a porta se abriu novamente. Rengin parou na soleira, segurando uma prancheta. Seus olhos passaram de Timur para Bahar. O clima na sala era tão denso que a própria Rengin pareceu hesitar. Ela pigarreou, entrando e pegando um copo de água do bebedouro.
 
 — Ouvi o que aconteceu na UTI — disse Rengin, a voz fria e profissional. — A intervenção precoce nos fluidos e a mudança nos estabilizadores de pressão.
 
