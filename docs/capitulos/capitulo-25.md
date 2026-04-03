@@ -17,7 +17,7 @@ Ela entrou, os sapatos de sola de borracha não fazendo barulho no linóleo gast
 
 Ele deu um salto, a cabeça erguendo-se bruscamente. Os olhos do rapaz estavam vermelhos, as pálpebras inchadas, e um misto de vergonha e fúria defensiva cruzou seu rosto ao reconhecê-la.
 
-— Veio esfregar na minha cara? — a voz dele saiu áspera, quebrando no final. Ele desviou o olhar, encarando a porta de metal do armário. — Que a assistente do Evren salvou o dia onde o prodígio do Dr. Timur falhou? Meu pai já deve estar espalhando isso.
+— Veio esfregar na minha cara? — A voz dele saiu áspera, quebrando no final. Ele desviou o olhar, encarando a porta de metal do armário. — Que a assistente do Evren salvou o dia em que o prodígio do Dr. Timur falhou? Meu pai já deve estar espalhando isso.
 
 Bahar sentou-se ao lado dele. O banco rangeu sob o peso de ambos. A madeira fria contrastava com o calor que ainda irradiava do corpo do filho, tenso como uma corda prestes a arrebentar.
 
