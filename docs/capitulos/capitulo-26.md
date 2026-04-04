@@ -15,7 +15,7 @@ Rengin estava sentada atrás de sua mesa de vidro, os olhos cravados na tela do 
 
 Rengin finalmente desviou o olhar da tela. Ela tirou os óculos de leitura, um gesto lento e deliberado que Timur reconhecia como um prelúdio para uma repreensão.
 
-— Aziz quase matou um paciente no pós-operatório hoje de manhã, Timur. — A voz dela era nivelada, desprovida de qualquer simpatia. — Choque hipovolêmico não detectado. Se Bahar não tivesse entrado naquela UTI e notado os sinais clínicos que seu filho ignorou por estar ocupado demais olhando para o monitor, você estaria lidando com um processo de negligência, não com uma crise de ego.
+— Aziz quase matou um paciente no pós-operatório hoje de manhã, Timur. — A voz dela era nivelada, desprovida de qualquer simpatia. — Choque hipovolêmico não detectado. Se Bahar não tivesse entrado naquela UTI e notado os sinais físicos que seu filho ignorou por estar fixado apenas no monitor, você estaria lidando com um processo de negligência, não com uma crise de ego.
 
 As palavras aterrissaram como um tapa. Timur recuou, endireitando a postura. Ele puxou as lapelas de seu jaleco impecável, um tique nervoso que desenvolvera nas últimas semanas.
 
