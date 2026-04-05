@@ -26,6 +26,8 @@ const capitulosNavItems = [
   { text: 'Capítulo 23', link: '/capitulos/capitulo-23' },
   { text: 'Capítulo 24', link: '/capitulos/capitulo-24' },
   { text: 'Capítulo 25', link: '/capitulos/capitulo-25' },
+  { text: 'Capítulo 26', link: '/capitulos/capitulo-26' },
+  { text: 'Capítulo 27', link: '/capitulos/capitulo-27' },
 ]
 
 const capitulosSidebarItems = [
@@ -54,6 +56,8 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 23: O Peso da Observação', link: '/capitulos/capitulo-23' },
   { text: 'Capítulo 24: O Eco na Sala de Descanso', link: '/capitulos/capitulo-24' },
   { text: 'Capítulo 25: O Preço da Arrogância', link: '/capitulos/capitulo-25' },
+  { text: 'Capítulo 26: Fissuras na Máscara', link: '/capitulos/capitulo-26' },
+  { text: 'Capítulo 27: O Peso do Próprio Nome', link: '/capitulos/capitulo-27' },
 ]
 
 const analisesItems = [
@@ -82,6 +86,8 @@ const analisesItems = [
   { text: 'Análise Capítulo 23', link: '/analises/capitulo-23-analise' },
   { text: 'Análise Capítulo 24', link: '/analises/capitulo-24-analise' },
   { text: 'Análise Capítulo 25', link: '/analises/capitulo-25-analise' },
+  { text: 'Análise Capítulo 26', link: '/analises/capitulo-26-analise' },
+  { text: 'Análise Capítulo 27', link: '/analises/capitulo-27-analise' },
 ]
 
 export default defineConfig({
