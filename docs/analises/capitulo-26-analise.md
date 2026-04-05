@@ -24,4 +24,4 @@ A atmosfera clínica e fria do hospital espelha a desconstrução da relação e
 *   **"As atitudes dos personagens neste capítulo condizem com o trauma ou histórico estabelecido anteriormente?"**
     Sim. O medo mesquinho e o egoísmo de Timur (evidenciados na sua recusa do transplante) estão consistentes com a sua dificuldade em aceitar a emancipação e competência de Bahar. A visão pragmática de Rengin também alinha com o seu perfil profissional.
 *   **"O resumo da lore foi atualizado com as novas descobertas médicas ou revelações familiares?"**
-    O capítulo pavimenta o caminho para a mudança na dinâmica do hospital e prepara o terreno para a atuação direta de Bahar na UTI (vista no capítulo 27). A Bíblia já reflete o caso entre Timur e Rengin e a natureza narcisista de Timur.
+    O capítulo pavimenta o caminho para a mudança na dinâmica do hospital e prepara o terreno para a atuação direta de Bahar na UTI (vista no [capítulo 27](../capitulos/capitulo-27)). A [Bíblia](/biblia) já reflete o caso entre Timur e Rengin e a natureza narcisista de Timur.
