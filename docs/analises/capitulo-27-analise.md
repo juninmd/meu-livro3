@@ -19,10 +19,10 @@ A atmosfera realista de um hospital no início da manhã foi bem estabelecida (o
 
 ### Pontos Fracos
 *   A reação de Aziz, embora coerente, poderia ter mostrado mais complexidade; a raiva predominou sobre a possibilidade de ele estar genuinamente assustado por ter quase matado um paciente, algo que deve ser explorado nos próximos capítulos.
-*   O capítulo foi um pouco curto, mas eficiente, sendo apropriado para uma transição pós-clímax do capítulo anterior (onde Rengin e Timur discutiram sobre esse mesmo evento).
+*   O capítulo foi um pouco curto, mas eficiente, sendo apropriado para uma transição pós-clímax do [capítulo anterior](capitulo-26-analise) (onde Rengin e Timur discutiram sobre esse mesmo evento).
 
 ## Sanity Check (Auditoria de Coerência)
 *   **"As atitudes dos personagens neste capítulo condizem com o trauma ou histórico estabelecido anteriormente?"**
     Sim. Bahar está agindo de acordo com a sua epifania após o transplante: recuperar o controle da sua vida e voltar à medicina. A relutância de Aziz em aceitar a autoridade dela no hospital reflete perfeitamente o ambiente doméstico estabelecido por Timur.
 *   **"O resumo da lore foi atualizado com as novas descobertas médicas ou revelações familiares?"**
-    Sim. O capítulo confirma os eventos citados no Capítulo 26 (o incidente com o choque hipovolêmico do paciente na UTI e a intervenção salvadora de Bahar), mantendo total coerência com o plot estabelecido.
+    Sim. O capítulo confirma os eventos citados no [Capítulo 26](../capitulos/capitulo-26) (o incidente com o choque hipovolêmico do paciente na UTI e a intervenção salvadora de Bahar), mantendo total coerência com o plot estabelecido.
