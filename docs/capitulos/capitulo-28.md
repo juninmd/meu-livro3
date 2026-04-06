@@ -1,5 +1,5 @@
 ---
-Título: O Peso da Própria Verdade
+title: O Peso da Própria Verdade
 Data In-Game: 15 de Novembro, Final da Manhã
 Localização: Hospital Fundação Peran, Escritório de Timur
 Personagens Presentes: Bahar Yavuz, Timur Yavuz
