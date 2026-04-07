@@ -29,6 +29,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 26', link: '/capitulos/capitulo-26' },
   { text: 'Capítulo 27', link: '/capitulos/capitulo-27' },
   { text: 'Capítulo 28', link: '/capitulos/capitulo-28' },
+  { text: 'Capítulo 29', link: '/capitulos/capitulo-29' },
 ]
 
 const capitulosSidebarItems = [
@@ -60,6 +61,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 26: Fissuras na Máscara', link: '/capitulos/capitulo-26' },
   { text: 'Capítulo 27: O Peso do Próprio Nome', link: '/capitulos/capitulo-27' },
   { text: 'Capítulo 28: O Peso da Própria Verdade', link: '/capitulos/capitulo-28' },
+  { text: 'Capítulo 29: O Peso da Própria Escolha', link: '/capitulos/capitulo-29' },
 ]
 
 const analisesItems = [
@@ -91,6 +93,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 26', link: '/analises/capitulo-26-analise' },
   { text: 'Análise Capítulo 27', link: '/analises/capitulo-27-analise' },
   { text: 'Análise Capítulo 28', link: '/analises/capitulo-28-analise' },
+  { text: 'Análise Capítulo 29', link: '/analises/capitulo-29-analise' },
 ]
 
 export default defineConfig({
