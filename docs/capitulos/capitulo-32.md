@@ -13,7 +13,7 @@ Ela conferiu o prontuário eletrônico da paciente do leito 4. Pressão arterial
 
 Aziz estava parado no corredor entre os boxes de vidro. O jaleco de R1, normalmente impecável como o do pai, estava um pouco amassado nos cotovelos. Ele parecia cansado, os ombros levemente caídos sob o peso de um plantão de vinte horas, mas os olhos fixos nela carregavam uma mistura desconfortável de curiosidade e hesitação.
 
-— Aziz. — Bahar respondeu, mantendo o tom profissional. Dentro daquelas paredes, eles não eram mãe e filho, uma dinâmica que ele mesmo fizera questão de estabelecer no primeiro dia dela ali.
+— Aziz — Bahar respondeu, mantendo o tom profissional. Dentro daquelas paredes, eles não eram mãe e filho, uma dinâmica que ele mesmo fizera questão de estabelecer no primeiro dia dela ali.
 
 Ele deu um passo à frente, olhando para o monitor da paciente. — Ouvi dizer no posto de enfermagem. A paciente da fístula biliar.
 
@@ -23,11 +23,11 @@ Aziz engoliu em seco. A luz azulada dos monitores acentuava as olheiras fundas d
 
 Bahar sentiu uma pontada no peito. Não era ressentimento na voz dele, mas uma espécie de incredulidade genuína. Ele estava tentando reconciliar a imagem da mulher que queimou a torrada no café da manhã um mês atrás com a residente que acabara de auxiliar um dos cirurgiões mais brilhantes do hospital.
 
-— A sutura foi bem-sucedida. — Ela disse, escolhendo as palavras. Ela não queria se gabar, mas também se recusava a minimizar sua conquista para proteger o ego dele. — Não há segredo, Aziz. É técnica e prática. Você vai chegar lá.
+— A sutura foi bem-sucedida — ela disse, escolhendo as palavras. Ela não queria se gabar, mas também se recusava a minimizar sua conquista para proteger o ego dele. — Não há segredo, Aziz. É técnica e prática. Você vai chegar lá.
 
 Ele soltou uma risada curta, seca e sem humor. Passou a mão pelo cabelo, um gesto idêntico ao de Timur quando estava frustrado.
 
-— "Você vai chegar lá", ele sussurrou, olhando para o chão de linóleo. — Engraçado ouvir isso de você. O Dr. Yavuz passou a manhã inteira no meu ouvido porque eu demorei três segundos a mais para pinçar um vaso. Ele disse...
+— "Você vai chegar lá" — ele sussurrou, olhando para o chão de linóleo. — Engraçado ouvir isso de você. O Dr. Yavuz passou a manhã inteira no meu ouvido porque eu demorei três segundos a mais para pinçar um vaso. Ele disse...
 
 Aziz parou. A hesitação voltou, e ele olhou para Bahar como se de repente lembrasse quem ela era. Não apenas a residente R1.
 
@@ -43,7 +43,7 @@ O golpe a atingiu, não pela ofensa, que era esperada vindo de Timur, mas pelo f
 
 Ele não a chamou de "mãe", mas o peso na voz dele era um pedido de trégua. Era a primeira fissura no muro de arrogância que ele havia erguido imitando o pai.
 
-— Vá dormir, Dr. Yavuz. — Bahar sussurrou, a voz carregada de uma empatia exausta. — O plantão acaba em uma hora. A gente continua amanhã.
+— Vá dormir, Dr. Yavuz — Bahar sussurrou, a voice carregada de uma empatia exausta. — O plantão acaba em uma hora. A gente continua amanhã.
 
 Aziz assentiu devagar, deu as costas e caminhou pelo corredor. Bahar o observou até que ele dobrasse a esquina, o coração apertado, percebendo que a maior cirurgia que teria que fazer não seria em um centro cirúrgico, mas em tentar consertar o estrago que Timur havia feito neles.
 
