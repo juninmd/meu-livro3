@@ -33,6 +33,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 30', link: '/capitulos/capitulo-30' },
   { text: 'Capítulo 31', link: '/capitulos/capitulo-31' },
   { text: 'Capítulo 32', link: '/capitulos/capitulo-32' },
+  { text: 'Capítulo 33', link: '/capitulos/capitulo-33' },
 ]
 
 const capitulosSidebarItems = [
@@ -68,6 +69,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 30: O Peso da Primeira Decisão', link: '/capitulos/capitulo-30' },
   { text: 'Capítulo 31: O Risco Calculado', link: '/capitulos/capitulo-31' },
   { text: 'Capítulo 32: O Silêncio da UTI', link: '/capitulos/capitulo-32' },
+  { text: 'Capítulo 33: O Peso do Silêncio', link: '/capitulos/capitulo-33' },
 ]
 
 const analisesItems = [
@@ -103,6 +105,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 30', link: '/analises/capitulo-30-analise' },
   { text: 'Análise Capítulo 31', link: '/analises/capitulo-31-analise' },
   { text: 'Análise Capítulo 32', link: '/analises/capitulo-32-analise' },
+  { text: 'Análise Capítulo 33', link: '/analises/capitulo-33-analise' },
 ]
 
 export default defineConfig({
