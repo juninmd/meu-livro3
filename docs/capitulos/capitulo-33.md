@@ -19,7 +19,7 @@ Bahar parou, quase esbarrando em um carrinho de limpeza. Evren estava encostado 
 
 — Bom dia, Dr. Yilmaz — ela respondeu, forçando um sorriso que não chegou aos olhos. A falta de sono a deixava sem filtros. — O paciente do leito 4 estabilizou. E eu fiz um fechamento limpo antes do sol nascer.
 
-Evren tomou um gole de café, a expressão inescrutável. — Eu li as anotações do prontuário. Um fechamento que demorou cinco minutos a menos do que a média dos residentes de segundo ano. Você está começando a lembrar como se usa as mãos.
+Evren tomou um gole de café, a expressão inescrutável. — Eu li as anotações do prontuário. Um fechamento que demorou cinco minutos a menos do que a média dos residentes de segundo ano. Você está começando a lembrar como se usam as mãos.
 
 Era um elogio, vindo dele, um quase milagre. Mas o cansaço roubou a euforia de Bahar. Ela apenas suspirou, pegando seu próprio café da máquina. O líquido preto e amargo queimou sua língua de forma reconfortante.
 
@@ -31,7 +31,9 @@ Era um elogio, vindo dele, um quase milagre. Mas o cansaço roubou a euforia de 
 
 Evren a observou em silêncio. Ele não ofereceu platitudes vazias nem conselhos não solicitados. Apenas deu um passo à frente, diminuindo a distância entre eles.
 
-— O problema de tentar proteger os outros do fogo, Bahar — ele disse suavemente, usando o primeiro nome dela pela primeira vez em semanas —, é que você é quem acaba com as queimaduras de terceiro grau. Ele precisa aprender a suportar o calor. E você precisa parar de se jogar na frente das chamas por pessoas que não fariam o mesmo por você.
+— O problema de tentar proteger os outros do fogo, Bahar — ele disse suavemente, usando o primeiro nome dela pela primeira vez em semanas —, é que você acaba com as queimaduras de terceiro grau. Ele precisa aprender a suportar o calor. E você precisa parar de se jogar na frente das chamas por pessoas que não fariam o mesmo por você.
+
+Bahar desviou o olhar, processando o peso daquelas palavras. O silêncio entre eles não era desconfortável, mas carregado de uma compreensão que ela ainda não estava pronta para admitir. Ela abriu a boca para responder, mas o som metálico do elevador cortou o momento.
 
 Antes que ela pudesse responder, as portas do elevador no fim do corredor se abriram com um estrondo suave. Timur saiu, flanqueado por dois internos e a Dra. Rengin. Ele parecia descansado, o jaleco impecavelmente branco, o cabelo penteado para trás, rindo de algo que Rengin acabara de dizer. A visão dos dois juntos não doeu como costumava; apenas a encheu de uma determinação fria.
 
