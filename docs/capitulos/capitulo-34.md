@@ -1,5 +1,5 @@
 ---
-Título: "Capítulo 34: O Peso da Primeira Lição"
+title: "Capítulo 34: O Peso da Primeira Lição"
 Data In-Game: Manhã após o confronto no corredor
 Localização: Hospital Fundação Peran - Enfermaria Cirúrgica
 Personagens Presentes: Bahar Yavuz, Aziz Yavuz
@@ -41,7 +41,7 @@ Bahar o observou por um segundo a mais. Havia uma pontada de dor ao tratá-lo as
 
 — Quando terminar, apresente os números corretos ao residente chefe — ela instruiu, dando as costas.
 
-Ela caminhou pelo corredor, o som de seus próprios passos ecoando como uma marcha silenciosa de vitória. Ela havia deixado o filho em paz, e salvo um paciente. E o mais surpreendente: ela havia salvo um pouco de si mesma no processo.
+Ela caminhou pelo corredor, o som de seus próprios passos ecoando como uma marcha silenciosa de vitória. Ela havia deixado o filho em paz e salvado um paciente. E o mais surpreendente: ela havia salvado um pouco de si mesma no processo.
 
 <!-- Image Generation Prompt:
 "Cinematic, photorealistic medium close-up in a bustling hospital ward. Bahar, a Turkish female doctor in her 40s wearing professional scrubs and a stethoscope, stands with a firm, authoritative posture, pointing a pen at a medical chart. Aziz, a young male medical resident in his 20s wearing a white coat, looks down at the chart with an expression of anxious realization and sudden respect. Cool, bright fluorescent hospital lighting with a shallow depth of field blurring passing nurses in the background. 35mm lens, high tension, detailed textures, emotional realism."
