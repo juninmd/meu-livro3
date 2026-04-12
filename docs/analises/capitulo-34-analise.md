@@ -1,4 +1,4 @@
-# Análise Crítica - Capítulo 34: O Peso da Primeira Lição
+---\ntitle: "Análise Crítica - Capítulo 34: O Peso da Primeira Lição"\n---\n\n# Análise Crítica - Capítulo 34: O Peso da Primeira Lição
 
 **Nota Técnica:** 9/10
 
