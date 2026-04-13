@@ -1,5 +1,5 @@
 ---
-Título: "Capítulo 35: O Confronto no Corredor"
+title: "Capítulo 35: O Confronto no Corredor"
 Data In-Game: "14 de Outubro, 10h45"
 Localização: "Hospital Fundação Peran - Corredor da Enfermaria"
 Personagens Presentes: "Bahar Yavuz, Timur Yavuz, Evren Yilmaz"
