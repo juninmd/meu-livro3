@@ -1,4 +1,8 @@
-# Análise Crítica - Capítulo 35
+---
+title: "Análise Crítica - Capítulo 35: O Confronto no Corredor"
+---
+
+# Análise Crítica - Capítulo 35: O Confronto no Corredor
 
 **Nota Técnica:** 9/10
 
