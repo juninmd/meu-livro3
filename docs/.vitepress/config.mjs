@@ -35,6 +35,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 32', link: '/capitulos/capitulo-32' },
   { text: 'Capítulo 33', link: '/capitulos/capitulo-33' },
   { text: 'Capítulo 34', link: '/capitulos/capitulo-34' },
+  { text: 'Capítulo 35', link: '/capitulos/capitulo-35' },
 ]
 
 const capitulosSidebarItems = [
@@ -72,6 +73,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 32: O Silêncio da UTI', link: '/capitulos/capitulo-32' },
   { text: 'Capítulo 33: O Peso do Silêncio', link: '/capitulos/capitulo-33' },
   { text: 'Capítulo 34: O Peso da Primeira Lição', link: '/capitulos/capitulo-34' },
+  { text: 'Capítulo 35: O Confronto no Corredor', link: '/capitulos/capitulo-35' },
 ]
 
 const analisesItems = [
@@ -109,6 +111,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 32', link: '/analises/capitulo-32-analise' },
   { text: 'Análise Capítulo 33', link: '/analises/capitulo-33-analise' },
   { text: 'Análise Capítulo 34', link: '/analises/capitulo-34-analise' },
+  { text: 'Análise Capítulo 35', link: '/analises/capitulo-35-analise' },
 ]
 
 export default defineConfig({
