@@ -1,8 +1,8 @@
 ---
 title: "Capítulo 36: O Peso da Primeira Vitória"
-"Data In-Game": "14 de Outubro, 14h30"
-Localização: "Hospital Fundação Peran - Pronto-Socorro"
-"Personagens Presentes": "Bahar Yavuz, Evren Yilmaz, Rengin, Paciente (Senhora Elif)"
+data_in_game: "14 de Outubro, 14h30"
+localizacao: "Hospital Fundação Peran - Pronto-Socorro"
+personagens_presentes: "Bahar Yavuz, Evren Yilmaz, Rengin, Paciente (Senhora Elif)"
 ---
 
 # Capítulo 36: O Peso da Primeira Vitória
@@ -27,7 +27,7 @@ Enquanto deslizava o transdutor do ultrassom sobre a pele fria da mulher, a imag
 
 — A Dra. Rengin está de plantão na cirurgia, mas está presa em outro procedimento — respondeu um residente ansioso que acabara de se aproximar. — O Dr. Evren está no andar de cima.
 
-— Chamem o Dr. Evren. Rápido! — Bahar não hesitou. Ela subiu na maca, ajoelhando-se ao lado da paciente para manter a compressão onde podia, enquanto os maqueiros empurravam a cama em disparada pelos corredores.
+— Chamem o Dr. Evren. Rápido! — Bahar não hesitou. Ela subiu na maca, monitorando o pulso da paciente e garantindo a estabilidade dos acessos, enquanto os maqueiros empurravam a cama em disparada pelos corredores.
 
 As portas duplas do centro cirúrgico se abriram com um estrondo. Evren já estava lá, lavando as mãos. Ele não precisou de mais do que um olhar para o monitor e para o rosto pálido de Bahar para entender a gravidade da situação.
 
