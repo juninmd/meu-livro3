@@ -1,5 +1,5 @@
 ---
-Título: "Capítulo 37: A Queda da Máscara"
+title: "Capítulo 37: A Queda da Máscara"
 Data In-Game: Algumas semanas depois
 Localização: Hospital Fundação Peran
 Personagens Presentes: Bahar, Timur, Aziz
@@ -31,7 +31,7 @@ Ela não ia abaixar a cabeça. Não hoje.
 
 Timur ergueu uma sobrancelha, claramente ofendido. — Você discorda? Ilumine-nos, então.
 
-— O histórico familiar do paciente no prontuário, que não foi mencionado, cita dois tios com doença de Caroli. As dilatações císticas intra-hepáticas na tomografia são sutis, mas presentes no lobo direito — Bahar apontou com a ponta da caneta para o próprio peito, instintivamente, e depois para a tela. — Se formos direto para uma cirurgia radical pensando em colangiocarcinoma, ou tratarmos apenas para pancreatite, ignoraremos a colangite recorrente. Ele precisa de uma biópsia hepática guiada e antibióticos específicos antes de qualquer incisão.
+— O hist3rico familiar do paciente no prontu1rio, que n3o foi mencionado, cita dois tios com doen7a de Caroli. As dilata75es c1sticas intra-hep1ticas na tomografia s3o sutis, mas presentes no lobo direito. — Bahar apontou com a ponta da caneta para o pr3prio abd4men, instintivamente, e depois para a tela. — Se formos direto para uma cirurgia radical pensando em colangiocarcinoma, ou tratarmos apenas para pancreatite, ignoraremos a colangite recorrente. Ele precisa de uma bi3psia hep1tica guiada e antibi3ticos espec1ficos antes de qualquer incis3o.
 
 O anfiteatro mergulhou em um silêncio pesado. O laser vermelho na mão de Timur tremeu levemente, o ponto dançando sobre a tela antes de ele desligar.
 
