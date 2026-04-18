@@ -9,16 +9,16 @@ on:
       - master
 
 permissions:
-  contents: write
-  issues: write
-  pull-requests: write
-  packages: write
+  contents: read
 
 jobs:
   docker-build:
     name: Build & Push Image
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,6 +34,8 @@ jobs:
     needs: docker-build
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: ArgoCD Deploy
         uses: juninmd/base-actions/deploy-to-argocd@main
