@@ -42,6 +42,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 39', link: '/capitulos/capitulo-39' },
   { text: 'Capítulo 40', link: '/capitulos/capitulo-40' },
   { text: 'Capítulo 41', link: '/capitulos/capitulo-41' },
+  { text: 'Capítulo 42', link: '/capitulos/capitulo-42' },
 ]
 
 const capitulosSidebarItems = [
@@ -86,6 +87,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 39: O Peso da Agulha', link: '/capitulos/capitulo-39' },
   { text: 'Capítulo 40: O Peso da Confiança', link: '/capitulos/capitulo-40' },
   { text: 'Capítulo 41: O Peso da Nova Rotina', link: '/capitulos/capitulo-41' },
+  { text: 'Capítulo 42: A Água Fria', link: '/capitulos/capitulo-42' },
 ]
 
 const analisesItems = [
@@ -130,6 +132,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 39', link: '/analises/capitulo-39-analise' },
   { text: 'Análise Capítulo 40', link: '/analises/capitulo-40-analise' },
   { text: 'Análise Capítulo 41', link: '/analises/capitulo-41-analise' },
+  { text: 'Análise Capítulo 42', link: '/analises/capitulo-42-analise' },
 ]
 
 export default defineConfig({
