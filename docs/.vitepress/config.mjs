@@ -49,6 +49,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 46', link: '/capitulos/capitulo-46' },
   { text: 'Capítulo 47', link: '/capitulos/capitulo-47' },
   { text: 'Capítulo 48', link: '/capitulos/capitulo-48' },
+  { text: 'Capítulo 49', link: '/capitulos/capitulo-49' },
 ]
 
 const capitulosSidebarItems = [
@@ -100,6 +101,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 46: O Som da Sirene', link: '/capitulos/capitulo-46' },
   { text: 'Capítulo 47: A Inércia do Caos', link: '/capitulos/capitulo-47' },
   { text: 'Capítulo 48: O Peso da Chave', link: '/capitulos/capitulo-48' },
+  { text: 'Capítulo 49: O Gosto do Café Novo', link: '/capitulos/capitulo-49' },
 ]
 
 const analisesItems = [
@@ -151,6 +153,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 46', link: '/analises/capitulo-46-analise' },
   { text: 'Análise Capítulo 47', link: '/analises/capitulo-47-analise' },
   { text: 'Análise Capítulo 48', link: '/analises/capitulo-48-analise' },
+  { text: 'Análise Capítulo 49', link: '/analises/capitulo-49-analise' },
 ]
 
 export default defineConfig({
