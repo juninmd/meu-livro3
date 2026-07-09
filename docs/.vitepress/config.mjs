@@ -51,6 +51,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 48', link: '/capitulos/capitulo-48' },
   { text: 'Capítulo 49', link: '/capitulos/capitulo-49' },
   { text: 'Capítulo 50', link: '/capitulos/capitulo-50' },
+  { text: 'Capítulo 51', link: '/capitulos/capitulo-51' },
 ]
 
 const capitulosSidebarItems = [
@@ -104,6 +105,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 48: O Peso da Chave', link: '/capitulos/capitulo-48' },
   { text: 'Capítulo 49: A Luz Fria da Manhã', link: '/capitulos/capitulo-49' },
   { text: 'Capítulo 50: Sangue e Aço', link: '/capitulos/capitulo-50' },
+  { text: 'Capítulo 51: O Peso da Primeira Vitória Real', link: '/capitulos/capitulo-51' },
 ]
 
 const analisesItems = [
@@ -157,6 +159,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 48', link: '/analises/capitulo-48-analise' },
   { text: 'Análise Capítulo 49', link: '/analises/capitulo-49-analise' },
   { text: 'Análise Capítulo 50', link: '/analises/capitulo-50-analise' },
+  { text: 'Análise Capítulo 51', link: '/analises/capitulo-51-analise' },
 ]
 
 export default defineConfig({
