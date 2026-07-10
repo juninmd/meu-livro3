@@ -53,6 +53,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 50', link: '/capitulos/capitulo-50' },
   { text: 'Capítulo 51', link: '/capitulos/capitulo-51' },
   { text: 'Capítulo 52', link: '/capitulos/capitulo-52' },
+  { text: 'Capítulo 53', link: '/capitulos/capitulo-53' },
 ]
 
 const capitulosSidebarItems = [
@@ -108,6 +109,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 50: Sangue e Aço', link: '/capitulos/capitulo-50' },
   { text: 'Capítulo 51: O Peso da Primeira Vitória Real', link: '/capitulos/capitulo-51' },
   { text: 'Capítulo 52: O Encontro na Sala de Descanso', link: '/capitulos/capitulo-52' },
+  { text: 'Capítulo 53: A Textura da Cicatriz', link: '/capitulos/capitulo-53' },
 ]
 
 const analisesItems = [
@@ -163,6 +165,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 50', link: '/analises/capitulo-50-analise' },
   { text: 'Análise Capítulo 51', link: '/analises/capitulo-51-analise' },
   { text: 'Análise Capítulo 52', link: '/analises/capitulo-52-analise' },
+  { text: 'Análise Capítulo 53', link: '/analises/capitulo-53-analise' },
 ]
 
 export default defineConfig({
