@@ -55,6 +55,9 @@ const capitulosNavItems = [
   { text: 'Capítulo 52', link: '/capitulos/capitulo-52' },
   { text: 'Capítulo 53', link: '/capitulos/capitulo-53' },
   { text: 'Capítulo 54', link: '/capitulos/capitulo-54' },
+  { text: 'Capítulo 55', link: '/capitulos/capitulo-55' },
+  { text: 'Capítulo 56', link: '/capitulos/capitulo-56' },
+  { text: 'Capítulo 57', link: '/capitulos/capitulo-57' },
 ]
 
 const capitulosSidebarItems = [
@@ -112,6 +115,9 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 52: O Encontro na Sala de Descanso', link: '/capitulos/capitulo-52' },
   { text: 'Capítulo 53: A Textura da Cicatriz', link: '/capitulos/capitulo-53' },
   { text: 'Capítulo 54: A Pergunta Não Dita', link: '/capitulos/capitulo-54' },
+  { text: 'Capítulo 55: O Peso do Julgamento', link: '/capitulos/capitulo-55' },
+  { text: 'Capítulo 56: O Peso da Confirmação', link: '/capitulos/capitulo-56' },
+  { text: 'Capítulo 57: A Manhã Seguinte', link: '/capitulos/capitulo-57' },
 ]
 
 const analisesItems = [
@@ -169,6 +175,9 @@ const analisesItems = [
   { text: 'Análise Capítulo 52', link: '/analises/capitulo-52-analise' },
   { text: 'Análise Capítulo 53', link: '/analises/capitulo-53-analise' },
   { text: 'Análise Capítulo 54', link: '/analises/capitulo-54-analise' },
+  { text: 'Análise Capítulo 55', link: '/analises/capitulo-55-analise' },
+  { text: 'Análise Capítulo 56', link: '/analises/capitulo-56-analise' },
+  { text: 'Análise Capítulo 57', link: '/analises/capitulo-57-analise' },
 ]
 
 export default defineConfig({
