@@ -58,6 +58,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 55', link: '/capitulos/capitulo-55' },
   { text: 'Capítulo 56', link: '/capitulos/capitulo-56' },
   { text: 'Capítulo 57', link: '/capitulos/capitulo-57' },
+  { text: 'Capítulo 58', link: '/capitulos/capitulo-58' },
 ]
 
 const capitulosSidebarItems = [
@@ -118,6 +119,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 55: O Peso do Julgamento', link: '/capitulos/capitulo-55' },
   { text: 'Capítulo 56: O Peso da Confirmação', link: '/capitulos/capitulo-56' },
   { text: 'Capítulo 57: A Manhã Seguinte', link: '/capitulos/capitulo-57' },
+  { text: 'Capítulo 58: O Peso da Ronda Matinal', link: '/capitulos/capitulo-58' },
 ]
 
 const analisesItems = [
@@ -178,6 +180,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 55', link: '/analises/capitulo-55-analise' },
   { text: 'Análise Capítulo 56', link: '/analises/capitulo-56-analise' },
   { text: 'Análise Capítulo 57', link: '/analises/capitulo-57-analise' },
+  { text: 'Análise Capítulo 58', link: '/analises/capitulo-58-analise' },
 ]
 
 export default defineConfig({
