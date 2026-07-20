@@ -63,6 +63,7 @@ const capitulosNavItems = [
   { text: 'Capítulo 60', link: '/capitulos/capitulo-60' },
   { text: 'Capítulo 61', link: '/capitulos/capitulo-61' },
   { text: 'Capítulo 62', link: '/capitulos/capitulo-62' },
+  { text: 'Capítulo 63', link: '/capitulos/capitulo-63' },
 ]
 
 const capitulosSidebarItems = [
@@ -128,6 +129,7 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 60: A Ponte Estreita', link: '/capitulos/capitulo-60' },
   { text: 'Capítulo 61: O Peso da Primeira Dúvida', link: '/capitulos/capitulo-61' },
   { text: 'Capítulo 62: A Avaliação Clínica', link: '/capitulos/capitulo-62' },
+  { text: 'Capítulo 63: O Diagnóstico', link: '/capitulos/capitulo-63' },
 ]
 
 const analisesItems = [
@@ -193,6 +195,7 @@ const analisesItems = [
   { text: 'Análise Capítulo 60', link: '/analises/capitulo-60-analise' },
   { text: 'Análise Capítulo 61', link: '/analises/capitulo-61-analise' },
   { text: 'Análise Capítulo 62', link: '/analises/capitulo-62-analise' },
+  { text: 'Análise Capítulo 63', link: '/analises/capitulo-63-analise' },
 ]
 
 export default defineConfig({
