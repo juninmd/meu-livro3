@@ -67,7 +67,8 @@ const capitulosNavItems = [
   { text: 'Capítulo 64', link: '/capitulos/capitulo-64' },
   { text: 'Capítulo 65', link: '/capitulos/capitulo-65' },
   { text: 'Capítulo 66', link: '/capitulos/capitulo-66' },
-  { text: 'Capítulo 67', link: '/capitulos/capitulo-67' }
+  { text: 'Capítulo 67', link: '/capitulos/capitulo-67' },
+  { text: 'Capítulo 68', link: '/capitulos/capitulo-68' }
 ]
 
 const capitulosSidebarItems = [
@@ -137,7 +138,8 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 64: Novos Limites', link: '/capitulos/capitulo-64' },
   { text: 'Capítulo 65: A Confiança na Rotina', link: '/capitulos/capitulo-65' },
   { text: 'Capítulo 66: O Peso das Decisões', link: '/capitulos/capitulo-66' },
-  { text: 'Capítulo 67: O Eco do Bisturi', link: '/capitulos/capitulo-67' }
+  { text: 'Capítulo 67: O Eco do Bisturi', link: '/capitulos/capitulo-67' },
+  { text: 'Capítulo 68: O Vento Nos Corredores', link: '/capitulos/capitulo-68' }
 ]
 
 const analisesItems = [
@@ -207,7 +209,8 @@ const analisesItems = [
   { text: 'Análise Capítulo 64', link: '/analises/capitulo-64-analise' },
   { text: 'Análise Capítulo 65', link: '/analises/capitulo-65-analise' },
   { text: 'Análise Capítulo 66', link: '/analises/capitulo-66-analise' },
-  { text: 'Análise Capítulo 67', link: '/analises/capitulo-67-analise' }
+  { text: 'Análise Capítulo 67', link: '/analises/capitulo-67-analise' },
+  { text: 'Análise Capítulo 68', link: '/analises/capitulo-68-analise' }
 ]
 
 export default defineConfig({
