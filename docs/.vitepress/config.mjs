@@ -70,7 +70,8 @@ const capitulosNavItems = [
   { text: 'Capítulo 67', link: '/capitulos/capitulo-67' },
   { text: 'Capítulo 68', link: '/capitulos/capitulo-68' },
   { text: 'Capítulo 69', link: '/capitulos/capitulo-69' },
-  { text: 'Capítulo 70', link: '/capitulos/capitulo-70' }
+  { text: 'Capítulo 70', link: '/capitulos/capitulo-70' },
+  { text: 'Capítulo 71', link: '/capitulos/capitulo-71' }
 ]
 
 const capitulosSidebarItems = [
@@ -143,7 +144,8 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 67: O Eco do Bisturi', link: '/capitulos/capitulo-67' },
   { text: 'Capítulo 68: O Vento Nos Corredores', link: '/capitulos/capitulo-68' },
   { text: 'Capítulo 69: O Foco e a Fúria', link: '/capitulos/capitulo-69' },
-  { text: 'Capítulo 70: Ecos no Corredor', link: '/capitulos/capitulo-70' }
+  { text: 'Capítulo 70: Ecos no Corredor', link: '/capitulos/capitulo-70' },
+  { text: 'Capítulo 71: A Sombra e o Espelho', link: '/capitulos/capitulo-71' }
 ]
 
 const analisesItems = [
@@ -216,7 +218,8 @@ const analisesItems = [
   { text: 'Análise Capítulo 67', link: '/analises/capitulo-67-analise' },
   { text: 'Análise Capítulo 68', link: '/analises/capitulo-68-analise' },
   { text: 'Análise Capítulo 69', link: '/analises/capitulo-69-analise' },
-  { text: 'Análise Capítulo 70', link: '/analises/capitulo-70-analise' }
+  { text: 'Análise Capítulo 70', link: '/analises/capitulo-70-analise' },
+  { text: 'Análise Capítulo 71', link: '/analises/capitulo-71-analise' }
 ]
 
 export default defineConfig({
