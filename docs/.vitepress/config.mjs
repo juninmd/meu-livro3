@@ -74,7 +74,8 @@ const capitulosNavItems = [
   { text: 'Capítulo 71', link: '/capitulos/capitulo-71' },
   { text: 'Capítulo 72', link: '/capitulos/capitulo-72' },
   { text: 'Capítulo 73', link: '/capitulos/capitulo-73' },
-  { text: 'Capítulo 74', link: '/capitulos/capitulo-74' }
+  { text: 'Capítulo 74', link: '/capitulos/capitulo-74' },
+  { text: 'Capítulo 75', link: '/capitulos/capitulo-75' }
 ]
 
 const capitulosSidebarItems = [
@@ -151,7 +152,8 @@ const capitulosSidebarItems = [
   { text: 'Capítulo 71: A Sombra e o Espelho', link: '/capitulos/capitulo-71' },
   { text: 'Capítulo 72: A Mudança de Eixo', link: '/capitulos/capitulo-72' },
   { text: 'Capítulo 73: O Gosto do Café Frio', link: '/capitulos/capitulo-73' },
-  { text: 'Capítulo 74: O Peso da Prancheta', link: '/capitulos/capitulo-74' }
+  { text: 'Capítulo 74: O Peso da Prancheta', link: '/capitulos/capitulo-74' },
+  { text: 'Capítulo 75: O Leito Quatro', link: '/capitulos/capitulo-75' }
 ]
 
 const analisesItems = [
@@ -228,7 +230,8 @@ const analisesItems = [
   { text: 'Análise Capítulo 71', link: '/analises/capitulo-71-analise' },
   { text: 'Análise Capítulo 72', link: '/analises/capitulo-72-analise' },
   { text: 'Análise Capítulo 73', link: '/analises/capitulo-73-analise' },
-  { text: 'Análise Capítulo 74', link: '/analises/capitulo-74-analise' }
+  { text: 'Análise Capítulo 74', link: '/analises/capitulo-74-analise' },
+  { text: 'Análise Capítulo 75', link: '/analises/capitulo-75-analise' }
 ]
 
 export default defineConfig({
